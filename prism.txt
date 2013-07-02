@@ -1,0 +1,1090 @@
+[
+ {
+ "x": 0.99381,
+"y": 0.34925,
+"no_docs":     26,
+"words": [
+ {
+ "prob": 8.8046e-06,
+"word": "gchq" 
+},
+{
+ "prob": 8.8046e-06,
+"word": "intelligence" 
+},
+{
+ "prob": 2.0211e-05,
+"word": "prism" 
+},
+{
+ "prob": 8.8046e-06,
+"word": "uk" 
+},
+{
+ "prob": 8.8046e-06,
+"word": "information" 
+},
+{
+ "prob": 8.8059e-06,
+"word": "law" 
+},
+{
+ "prob": 8.8075e-06,
+"word": "data" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2cfd23a0/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cbritains0Egchq0Eused0Eus0Espy0Eprogramme0Eprism0Eto0Egather0Epersonal0Edata0Efrom0Egoogle0Efacebook0Eapple0Emicrosoft0Eyahoo0Eand0Eskype0E8650A0A0A10Bhtml/story01.htm",
+"title": "Britain's GCHQ 'used US spy programme Prism' to gather personal data from Google, Facebook, Apple, Microsoft, Yahoo and Skype" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2cfd0add/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cthousands0Eof0Ebritains0Emay0Ehave0Ebeen0Espied0Eon0Eby0Egchq0Eas0Elink0Eto0Eprism0Escandal0Eis0Elaid0Ebare0E8650A0A0A10Bhtml/story01.htm",
+"title": "Thousands of Britain's may have been spied on by GCHQ as link to Prism scandal is laid bare" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/07/civil-liberties-american-data-trough",
+"title": "Civil liberties: GCHQ and the American data trough" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/07/worried-state-snooping-us-uk",
+"title": "Letters: Worried by state snooping in US and UK" 
+},
+{
+ "url": "http://www.guardian.co.uk/technology/2013/jun/07/prism-gchq-access-covert-operation",
+"title": "Prism: ministers challenged over GCHQ's access to covert US operation" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337377/Britons-ARE-spied-surveillance-agencies-GCHQ-using-phone-records-online-data-gleaned-US-government-snoop-citizens.html",
+"title": "Britons ARE being spied on by surveillance agencies: GCHQ using phone records and online data gleaned by US government to snoop on citizens" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/07/civil-liberties-american-data-trough",
+"title": "Civil liberties: GCHQ and the American data trough | Editorial" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/09/orwell-fears-refracted-nsa-prism",
+"title": "Letters: Orwell's fears refracted through the NSA's Prism" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/09/nsa-prism-uk-government",
+"title": "NSA Prism surveillance scandal downplayed by UK government" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2338333/Andrew-Marr-Show-GCHQ-using-PRISM-spy-scheme-dodge-tough-legal-checks-activities.html",
+"title": "Andrew Marr Show: GCHQ has not been using PRISM spy scheme to dodge tough legal checks on activities" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d19a3a7/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cprism0Escandal0Ewilliam0Ehagues0Evagueness0Eon0Eus0Espying0Efails0Eto0Ereassure0Emps0Eand0Epublic0Eover0Ecovert0Egchq0Edeal0Ewith0Ensa0E86518960Bhtml/story01.htm",
+"title": "Prism scandal: William Hague's vagueness on US spying fails to reassure MPs and public over covert GCHQ deal with NSA" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d19c48a/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cprism0Escandal0Eforeign0Esecretary0Ewilliam0Ehague0Esidesteps0Emps0Equestions0Eon0Eclaims0Ethat0Egchq0Esnoops0Eon0Ebritons0Ethrough0Ecovert0Edeal0Ewith0Ensa0E86518960Bhtml/story01.htm",
+"title": "Prism scandal: Foreign Secretary William Hague sidesteps MPs' questions on claims that GCHQ snoops on Britons through covert deal with NSA" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d188d37/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cprism0Escandal0Eforeign0Esecretary0Ewilliam0Ehague0Esays0Euk0Eintelligence0Eservices0Edo0Enot0Eindiscriminately0Etrawl0Ethrough0Eemails0Eattacking0Eallegations0Eas0Ebaseless0E86518960Bhtml/story01.htm",
+"title": "Prism scandal: Foreign Secretary William Hague says UK intelligence services do not 'indiscriminately trawl' through emails, attacking allegations as 'baseless'" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/10/european-reaction-us-surveillance-revelations",
+"title": "World leaders seek answers on US collection of communication data" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/jun/10/david-blunkett-review-intelligence-oversight-law",
+"title": "David Blunkett calls for tighter scrutiny of British secret services" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/jun/10/simon-hoggarts-sketch-william-hague-spies",
+"title": "The spy who loved staying within the strict parameters of UK statutes" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/06/11/significant-concerns-canadas-privacy-commissioner-launches-probe-into-sweeping-u-s-spy-programs/",
+"title": "‘Significant concerns’: Canada’s privacy watchdog launches probe into sweeping U.S. spy programs" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/11/surveilllance-about-power-as-much-as-privacy",
+"title": "NSA and GCHQ: mass surveillance is about power as much as privacy | Seumas Milne" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/12/prism-arms-proliferation-us",
+"title": "Letters: Prism and arms proliferators" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/13/fight-hang-on-personal-data",
+"title": "Letters: Why we must fight to hang on to our personal data" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2341504/Edward-Snowden-Britain-issues-global-warning-airlines-let-CIA-leaker-board-flight-UK.html",
+"title": "Edward Snowden: Britain issues global warning to airlines not to let CIA leaker board a flight to the UK" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/17/defence-d-bbc-media-censor-surveillance-security",
+"title": "MoD serves news outlets with D notice over surveillance leaks" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/18/how-can-this-state-surveillance-be-legal",
+"title": "Prism: How can this level of state surveillance be legal? | Anya Proops" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/20/nsa-surveillance-doctors-lawyers-clients-snooped",
+"title": "Why NSA surveillance is a threat to British doctors and lawyers | Ross Anderson" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/21/gchq-mastery-internet-mastery-everyone",
+"title": "GCHQ revelations: mastery of the internet will mean mastery of everyone | Henry Porter" 
+},
+{
+ "url": "http://www.guardian.co.uk/uk/2013/jun/21/legal-loopholes-gchq-spy-world",
+"title": "The legal loopholes that allow GCHQ to spy on the world" 
+} 
+] 
+},
+{
+ "x": 0.38984,
+"y": 0.55528,
+"no_docs":     12,
+"words": [
+ {
+ "prob": 2.6101e-05,
+"word": "nsa" 
+},
+{
+ "prob": 2.6416e-05,
+"word": "snowden" 
+},
+{
+ "prob": 1.1655e-05,
+"word": "daten" 
+},
+{
+ "prob": 1.1652e-05,
+"word": "enth" 
+},
+{
+ "prob": 1.1652e-05,
+"word": "regierung" 
+},
+{
+ "prob": 0.00016957,
+"word": "programm" 
+},
+{
+ "prob": 1.1652e-05,
+"word": "guardian" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.82748,
+"y": 0.89065,
+"no_docs":      7,
+"words": [
+ {
+ "prob": 1.6201e-05,
+"word": "people" 
+},
+{
+ "prob": 3.7289e-05,
+"word": "black" 
+},
+{
+ "prob": 1.6201e-05,
+"word": "man" 
+},
+{
+ "prob": 1.6201e-05,
+"word": "young" 
+},
+{
+ "prob": 3.6363e-05,
+"word": "men" 
+},
+{
+ "prob": 1.6201e-05,
+"word": "martin" 
+},
+{
+ "prob": 1.6201e-05,
+"word": "white" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2805fecf/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Ccoalition0Eset0Eto0Eclash0Eover0Eremoval0Eof0Egreatest0Eblack0Ebriton0Emary0Eseacole0Efrom0Enational0Ecurriculum0E84716310Bhtml/story01.htm",
+"title": "Coalition set to clash over removal of 'greatest black Briton' Mary Seacole from National Curriculum" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28683cce/l/0L0Sindependent0O0Cnews0Cpeople0Cprofiles0Crufus0Ehound0Eone0Eman0Etwo0Emonikers0E84883980Bhtml/story01.htm",
+"title": "Rufus Hound: One man, two monikers" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2aa83cfb/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cthe0Ewoman0Ewho0Ebrought0Eup0Emargaret0Ethatcher0E8570A60A90Bhtml/story01.htm",
+"title": "The woman who brought up Margaret Thatcher" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/feb/19/hugh-muir-diary-julian-assange",
+"title": "Hugh Muir's diary: a defiant message from Assange and the Ecuadorians: we shall not be moved" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130202/NATION/302020369/1478/rss",
+"title": "Immigration bill splits GOP on national-local line" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22542702/blogger-chef-writer-thinker-huang-hates-labels?source=rss",
+"title": "Blogger, chef, writer, thinker? Huang hates labels" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/01/14/3182772/fau-professor-with-controversial.html",
+"title": "FAU professor with controversial theories on Newtown massacre says he was misunderstood" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/17/masculinity-fathers-generation-better-men",
+"title": "Yes, the men of my father's generation were better at being men | Ian Jack" 
+},
+{
+ "url": "http://www.guardian.co.uk/uk/2013/may/24/islamists-gangs-edl-target-young-men",
+"title": "Islamists, gangs, the EDL - all target alienated young men" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2cfd0dcc/l/0L0Sindependent0O0Carts0Eentertainment0Cbooks0Cnews0Cscarlett0Ejohansson0Esues0Eauthor0Efor0Eusing0Ename0Ein0Enovel0Etribute0E8650A2850Bhtml/story01.htm",
+"title": "Scarlett Johansson sues author for using name in novel 'tribute'" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/jun/14/david-cameron-interview-g8-summit-tax",
+"title": "David Cameron: 'G8 summit is a chance to recover national self-confidence'" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23467828/trayvon-martin-case-historys-ghosts-linger",
+"title": "In Trayvon Martin case, history's ghosts linger" 
+} 
+] 
+},
+{
+ "x": 0.4054,
+"y": 0.78762,
+"no_docs":      5,
+"words": [
+ {
+ "prob": 0.00015314,
+"word": "obama" 
+},
+{
+ "prob": 1.5875e-05,
+"word": "pr" 
+},
+{
+ "prob": 1.5875e-05,
+"word": "merkel" 
+},
+{
+ "prob": 1.5875e-05,
+"word": "berlin" 
+},
+{
+ "prob": 1.5875e-05,
+"word": "sident" 
+},
+{
+ "prob": 7.5402e-05,
+"word": "tor" 
+},
+{
+ "prob": 3.5484e-05,
+"word": "brandenburger" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.80646,
+"y": 0.9111,
+"no_docs":      5,
+"words": [
+ {
+ "prob": 1.7014e-05,
+"word": "jackson" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "time" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "jones" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "years" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "ve" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "told" 
+},
+{
+ "prob": 1.7014e-05,
+"word": "long" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28683ccc/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Cfeatures0Ci0Edid0Edebauch0Emyself0Eto0Eachieve0Ethat0Elook0Eiggy0Epop0Elooks0Eback0Eto0Ehis0Eiconic0E1970As0Eheyday0E8483820A0Bhtml/story01.htm",
+"title": "'I did debauch myself to achieve that look': Iggy Pop looks back to his iconic 1970s heyday" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23136640/jackson-back-spotlight-civil-trial-begins",
+"title": "Jackson's private life on display in civil trial" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23136640/jackson-back-spotlight-civil-trial-begins",
+"title": "Jackson's private life on display in civil trial" 
+},
+{
+ "url": "http://www.denverpost.com/rockies/ci_23324907/rockies-blow-4-0-lead-giants-game-inside",
+"title": "Rockies blow big lead to Giants, lose on walk-off, inside-the-park home run" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/y6w_-JJvpC0/story01.htm",
+"title": "End Zone: Seth Jones ready to break the ice in the NHL" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/IT0JXb02ndU/story01.htm",
+"title": "Powerball Lottery winners collect total of $9 million" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/06/25/3469218/seed-savers-in-the-northeast-corner.html",
+"title": "Seed Savers: In the northeast corner of Iowa, an underground bunker safeguards our nation's food heritage" 
+} 
+] 
+},
+{
+ "x": 0.75549,
+"y": 0.91103,
+"no_docs":     36,
+"words": [
+ {
+ "prob": 2.2055e-05,
+"word": "world" 
+},
+{
+ "prob": 2.2053e-05,
+"word": "snowflakes" 
+},
+{
+ "prob": 2.2053e-05,
+"word": "drones" 
+},
+{
+ "prob": 2.2072e-05,
+"word": "city" 
+},
+{
+ "prob": 2.2053e-05,
+"word": "carbon" 
+},
+{
+ "prob": 2.2058e-05,
+"word": "amp" 
+},
+{
+ "prob": 2.2053e-05,
+"word": "snow" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2734fa29/l/0L0Sindependent0O0Cenvironment0Cnature0Cmysteries0Eof0Ethe0Esnowflake0Ethe0Ecurious0Eworld0Eof0Ethe0Eicecrystal0Eexperts0E84358470Bhtml/story01.htm",
+"title": "Mysteries of the snowflake: The curious world of the ice-crystal experts" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/19/canadas-new-religious-freedom-ambassador-says-hell-give-a-louder-voice-to-homegrown-values-in-a-noisy-world/",
+"title": "Canada’s new religious freedom ambassador says he’ll give a louder voice to homegrown values in a ‘noisy world’" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130129/ENT05/301290409/1478/rss",
+"title": "New J.D. Salinger book and film coming within next year" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130512/SCIENCE/305120337/1478/rss",
+"title": "Project aims to track big city carbon footprints" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/14/drones-size-bees-good-evil",
+"title": "Drones the size of bees – good or evil? | Steven Poole" 
+} 
+] 
+},
+{
+ "x": 0.83137,
+"y": 0.74321,
+"no_docs":     11,
+"words": [
+ {
+ "prob": 1.9307e-05,
+"word": "data" 
+},
+{
+ "prob": 4.2312e-05,
+"word": "people" 
+},
+{
+ "prob": 1.9307e-05,
+"word": "online" 
+},
+{
+ "prob": 1.9307e-05,
+"word": "internet" 
+},
+{
+ "prob": 1.9309e-05,
+"word": "web" 
+},
+{
+ "prob": 1.9307e-05,
+"word": "users" 
+},
+{
+ "prob": 1.9307e-05,
+"word": "amp" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.denverpost.com/breakingnews/ci_23147526/universal-sports-network-reaches-carriage-deal-centurylink",
+"title": "Universal Sports Network reaches carriage deal with CenturyLink" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23418208/global-netizens-worried-over-us-spying",
+"title": "Globally, people resigned to little privacy online" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d0e5032/l/0L0Sindependent0O0Cnews0Cmedia0Conline0Cthe0Etor0Esystem0Ewelcome0Eto0Ethe0Edark0Einternet0Ewhere0Eyou0Ecan0Esearch0Ein0Esecret0E86513640Bhtml/story01.htm",
+"title": "The Tor system: Welcome to the dark internet where you can search in secret" 
+},
+{
+ "url": "http://www.guardian.co.uk/technology/2013/jun/10/nsa-surveillance-online-digital",
+"title": "NSA surveillance: is it possible to exist online without casting a digital shadow?" 
+},
+{
+ "url": "http://www.guardian.co.uk/media/media-blog/2013/jun/23/advertisers-data-internet-google-facebook",
+"title": "Advertisers under pressure to handle data with care – or lose consumers" 
+} 
+] 
+},
+{
+ "x":      1,
+"y": 0.17529,
+"no_docs":      4,
+"words": [
+ {
+ "prob": 5.4005e-06,
+"word": "government" 
+},
+{
+ "prob": 5.4005e-06,
+"word": "program" 
+},
+{
+ "prob": 5.4005e-06,
+"word": "nsa" 
+},
+{
+ "prob": 5.4005e-06,
+"word": "intelligence" 
+},
+{
+ "prob": 5.4005e-06,
+"word": "data" 
+},
+{
+ "prob": 5.4005e-06,
+"word": "phone" 
+},
+{
+ "prob": 5.4018e-06,
+"word": "information" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2cfd0dcd/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cpresident0Eobama0Etries0Eto0Ecalm0Efears0Eover0Egovernment0Eeavesdropping0Eprogramme0Emining0Eprivate0Edata0Efrom0Egoogle0Eapple0Eyoutube0Eand0Efacebook0E86487440Bhtml/story01.htm",
+"title": "President Obama tries to calm fears over government eavesdropping programme mining private data from Google, Apple, YouTube and Facebook" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/06/07/prism-barack-obama-says-u-s-got-balance-right-as-furore-grows-over-spy-programs/",
+"title": "I think we got balance right, Obama says as furor intensifies over massive spy programs" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/06/us-tech-giants-nsa-data",
+"title": "NSA Prism program taps in to user data of Apple, Google and others" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/bljmG0cE3Ag/story01.htm",
+"title": "U.S. spy program snooping into Americans' searches, emails, calls" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/LU8V-Sk72IM/story01.htm",
+"title": "NSA, FBI tapping servers of leading Internet companies" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/UFmZLtJ1uTE/story01.htm",
+"title": "Reports on surveillance of Americans fuel debate over privacy, security" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130607/POLITICS03/306070331/1478/rss",
+"title": "Obama: 'Nobody is listening to your telephone calls'" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130607/POLITICS03/306070346/1478/rss",
+"title": "Paper: U.K. government getting NSA's data" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130607/POLITICS03/306070352/1478/rss",
+"title": "Is Big Data turning government into 'Big Brother'?" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130606/POLITICS03/306060340/1478/rss",
+"title": "Scope of U.S. surveillance included Internet, phone calls" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23413549/google-ceo-denies-companys-involvement-prism",
+"title": "Google CEO denies company's involvement in PRISM" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23409618/us-declassifies-phone-program-details-after-uproar",
+"title": "Obama defends phone data collection program" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23409609/is-big-data-turning-government-into-big-brother",
+"title": "Is Big Data turning government into 'Big Brother'?" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337420/Utah-Data-Center-The-million-square-foot-Utah-data-mining-facility-built-NSA.html",
+"title": "Utah Data Center: The one million square foot Utah data mining facility being built by NSA" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/06/07/prism-u-s-surveillance-programs-reveal-barack-obamas-broken-promise/",
+"title": "Fresh revelations about the scale of U.S. surveillance programs reveal Barack Obama’s broken promises" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/07/obama-nsa-revelations-chinese-summit",
+"title": "Obama defiant over NSA revelations ahead of summit with Chinese premier" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23418209/obama-defends-broad-phone-internet-spy-programs",
+"title": "Obama defends broad phone, Internet spy programs" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23418217/but-wait-theres-more-domestic-spying-q-amp",
+"title": "But wait, there's more: A domestic spying Q&amp;A" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337863/PRISM-Google-Facebook-DID-allow-NSA-access-data-talks-set-spying-rooms-despite-denials-Zuckerberg-Page-controversial-project.html",
+"title": "PRISM: Google and Facebook DID allow NSA access to data and were in talks to set up 'spying rooms' despite denials by Zuckerberg and Page over controversial project" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337824/Horrible-timing-National-Security-Agency-lists-Digital-Network-Exploitation-Analyst-internship-opening-controversy-swirls-digital-snooping-scandal.html",
+"title": "Horrible timing: National Security Agency lists 'Digital Network Exploitation Analyst' internship opening as controversy swirls over digital snooping scandal" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/06/09/i-have-no-intention-of-hiding-nsa-whistleblower-revealed-as-29-year-old-contract-worker/",
+"title": "‘I have no intention of hiding’: NSA whistleblower revealed as 29-year-old contract worker" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130609/NATION/306090321/1478/rss",
+"title": "Report: NSA contract worker is surveillance source" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130608/POLITICS03/306080345/1478/rss",
+"title": "Intelligence chief defends Internet spying program" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/dUvByocqdi4/story01.htm",
+"title": "Meet the whisleblower behind the government's surveillance" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/Z-CoMZ2SmWw/story01.htm",
+"title": "Spy programs raise many questions, even if legal" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23423078/senators-differ-value-phone-records-program",
+"title": "NSA contractor outed as source of U.S. government spying leaks" 
+},
+{
+ "url": "http://www.denverpost.com/nationworld/ci_23421045/government-surveillance-programs-renew-debate",
+"title": "Government surveillance programs renew debate" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23418209/obama-defends-broad-phone-internet-spy-programs",
+"title": "Intelligence chief defends Internet spying program" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2340002/Google-asks-FBI-allow-disclose-FISA-requests-data.html",
+"title": "Google asks FBI to allow it to disclose FISA requests for data" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/WSA6GXlBCs8/story01.htm",
+"title": "Officials: Snowden took NSA secrets on thumb drive" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/14/edward-snowden-worst-fear-not-realised",
+"title": "Edward Snowden's worst fear has not been realised – thankfully | Glenn Greenwald" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23467729/secret-prism-success-even-bigger-data-seizure",
+"title": "Secret to Prism program: Even bigger data seizure" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2342200/Revealed-Yahoo-FOUGHT-NSAs-warrantless-spying-program-lost-forced-secret-court-join-PRISM.html",
+"title": "Revealed: Yahoo FOUGHT against NSA's warrantless spying program but lost and was forced by secret court to join PRISM" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23475873/current-former-officials-back-secret-surveillance",
+"title": "Guardian: Snowden won't return voluntarily to US" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/06/18/over-50-terrorist-acts-including-a-ny-stock-exchange-bombing-were-foiled-by-leaked-surveillance-programs/",
+"title": "Over 50 terrorist acts, including a NY Stock Exchange bombing, were foiled by leaked surveillance programs" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23483100/intel-chief-nsa-foiled-dozens-terrorist-plots",
+"title": "NSA director says plot against Wall Street foiled" 
+} 
+] 
+},
+{
+ "x": 0.84162,
+"y": 0.6603,
+"no_docs":     49,
+"words": [
+ {
+ "prob": 1.4745e-05,
+"word": "snowden" 
+},
+{
+ "prob": 1.4745e-05,
+"word": "kong" 
+},
+{
+ "prob": 1.4745e-05,
+"word": "hong" 
+},
+{
+ "prob": 1.4745e-05,
+"word": "told" 
+},
+{
+ "prob": 1.4745e-05,
+"word": "edward" 
+},
+{
+ "prob": 1.4753e-05,
+"word": "june" 
+},
+{
+ "prob": 1.4745e-05,
+"word": "cia" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d0e51de/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cnsa0Econtractor0Eedward0Esnowden0Ebraces0Efor0Ebacklash0Eafter0Eturning0Ewhistleblower0Eon0Eus0Edatamining0Eoperation0E86513750Bhtml/story01.htm",
+"title": "NSA contractor Edward Snowden braces for backlash after turning whistleblower on US data-mining operation" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d1a97df/l/0L0Sindependent0O0Cnews0Cpeople0Cprofiles0Cedward0Esnowden0Ethe0Esecretive0Elife0Eof0Eamericas0Emost0Ewanted0Eman0E86529550Bhtml/story01.htm",
+"title": "Edward Snowden: The secretive life of America’s most wanted man" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d272127/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cwashington0Erages0Eat0Etraitor0Eedward0Esnowden0Eas0Ensa0Efaces0Efire0Eover0Eprotection0Eof0Esecrets0E86533250Bhtml/story01.htm",
+"title": "Washington rages at ‘traitor’ Edward Snowden as NSA faces fire over protection of secrets" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2340295/Im-traitor-hero-Im-American-NSA-whistleblower-Edward-Snowden-speaks-Chinese-newspaper.html",
+"title": "'I'm neither a traitor nor a hero. I'm an American': NSA whistleblower Edward Snowden speaks to Chinese newspaper" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d6a9807/l/0L0Sindependent0O0Cnews0Cworld0Casia0Cmore0Eleaksare0Eon0Ethe0Eway0Esays0Eprism0Eprogramme0Ewhistleblower0Eedward0Esnowden0E86625950Bhtml/story01.htm",
+"title": "'More leaks are on the way' says Prism programme whistleblower Edward Snowden" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2343192/Edward-Snowdens-father-begs-son-leak-anymore-tells-come-home-US.html",
+"title": "Edward Snowden's father begs his son 'not to leak anymore' as he tells him to come home to the US" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2da4de15/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cprism0Escandal0Eus0Efiles0Eespionage0Echarges0Eagainst0Ensa0Ewhistleblower0Eedward0Esnowden0E86693760Bhtml/story01.htm",
+"title": "Prism scandal: US files espionage charges against NSA whistleblower Edward Snowden" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/OGZNKSccJmU/story01.htm",
+"title": "U.S. seeks Snowden's extradition, urges Hong Kong to act quickly" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/23/edward-snowden-nsa-files-timeline",
+"title": "Edward Snowden and the NSA files – timeline" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2347646/Edward-Snowden-fled-Hong-Kong-dinner-pizza-sausages-fears-jailed-computer.html",
+"title": "Edward Snowden fled Hong Kong after dinner of pizza and sausages over fears he would be jailed without his computer" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2347178/Edward-Snowden-Russia-accused-play-Cold-War-games-US-acting-travel-agent-NSA-leaker-whistleblower-misses-Cuba-flight.html",
+"title": "Edward Snowden: Russia accused of play Cold War games with US and acting as 'travel agent' for NSA leaker as whistleblower misses Cuba flight" 
+} 
+] 
+},
+{
+ "x": 0.51763,
+"y": 0.84643,
+"no_docs": null,
+"words": [
+ {
+ "prob": 0.00010747,
+"word": "alexander" 
+},
+{
+ "prob": 8.1133e-05,
+"word": "abh" 
+},
+{
+ "prob": 0.00011014,
+"word": "haines" 
+},
+{
+ "prob": 0.00019736,
+"word": "keith" 
+},
+{
+ "prob": 0.00019736,
+"word": "general" 
+},
+{
+ "prob": 2.3024e-05,
+"word": "briten" 
+},
+{
+ "prob": 7.932e-05,
+"word": "tempora" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.74394,
+"y": 0.88071,
+"no_docs": null,
+"words": [
+ {
+ "prob": 2.2685e-05,
+"word": "week" 
+},
+{
+ "prob": 5.1377e-05,
+"word": "back" 
+},
+{
+ "prob": 0.00031081,
+"word": "made" 
+},
+{
+ "prob": 0.00053835,
+"word": "market" 
+},
+{
+ "prob": 0.00050981,
+"word": "apple" 
+},
+{
+ "prob": 2.2688e-05,
+"word": "google" 
+},
+{
+ "prob": 2.2685e-05,
+"word": "held" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.guardian.co.uk/technology/2013/apr/11/htc-profit-slump-samsung-apple-smartphone",
+"title": "HTC profit slump confirms Samsung and Apple as smartphone leaders" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/07/obama-apple-google-facebook-tainted-prism",
+"title": "Obama is like Apple, Google and Facebook: a once hip brand tainted by Prism | Jonathan Freedland:" 
+},
+{
+ "url": "http://www.guardian.co.uk/fashion/2013/jun/07/espadrilles-summer-success-beyonce-tabitha-simmons",
+"title": "Espadrilles look to be summer's sole success after Beyoncé endorsement" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jun/07/obama-apple-google-facebook-tainted-prism",
+"title": "Obama is like Apple, Google and Facebook: a once hip brand tainted by Prism | Jonathan Freedland" 
+} 
+] 
+},
+{
+ "x":      0,
+"y": 0.40218,
+"no_docs": null,
+"words": [
+ {
+ "prob": 0.050634,
+"word": "die" 
+},
+{
+ "prob": 1.1882e-05,
+"word": "der" 
+},
+{
+ "prob": 1.1849e-05,
+"word": "und" 
+},
+{
+ "prob": 3.3929e-06,
+"word": "den" 
+},
+{
+ "prob": 3.393e-06,
+"word": "das" 
+},
+{
+ "prob": 0.00024932,
+"word": "von" 
+},
+{
+ "prob": 0.0028739,
+"word": "zu" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.spiegel.de/kultur/musik/klezmer-von-florian-weber-leon-gurvitch-giora-feidman-a-886343.html#ref=rss",
+"title": "Klezmer-Jazz: Können Nichtjuden das auch? Klar!" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/museumsarchitektur-neue-kisten-kriegt-das-land-12186584.html",
+"title": "Museumsarchitektur: Neue Kisten kriegt das Land" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116934481/Niemand-hoert-Ihre-Telefongespraeche-ab.html",
+"title": "Daten: \"Niemand hört Ihre Telefongespräche ab\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article116933722/Daten-Sammelwut-der-USA-empoert-Deutschland.html",
+"title": "Nutzerinformationen: Daten-Sammelwut der USA empört Deutschland" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/ausland/amerika/spionageaktionen-bei-internet-firmen-amerikanische-regierung-schnueffelt-in-rechnern-12212966.html",
+"title": "Amerikanische Regierung schnüffelt in Rechnern von Internet-Firmen" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116934481/Unter-Obama-explodierte-die-Ueberwachung.html",
+"title": "Datenspionage: Unter Obama explodierte die Überwachung" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/medien/ueberwachungsprogramm-prism-welche-daten-bekamen-geheimdienste-von-google-und-facebook-12214340.html",
+"title": "Überwachungsprogramm „Prism“: Welche Daten bekamen Geheimdienste von Google und Facebook?" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116973049/29-Jaehriger-bekennt-sich-zu-US-Daten-Spionage-Enthuellung.html",
+"title": "Edward Snowden: 29-Jähriger bekennt sich zu US-Daten-Spionage-Enthüllung" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116972728/Obamas-undankbare-Aufgabe-beim-Besuch-aus-China.html",
+"title": "Daten-Affäre: Obamas undankbare Aufgabe beim Besuch aus China" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116955979/Obama-droht-Chinesen-wegen-Cyberspionage.html",
+"title": "Gipfeltreffen: Obama droht Chinesen wegen Cyberspionage" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/nsa-affaere-merkel-muss-mit-obama-reden-12215912.html",
+"title": "NSA-Affäre: „Merkel muss mit Obama reden“" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/datensammler-ein-totalitaeres-system-12214556.html",
+"title": "Datensammler - Ein totalitäres System" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/debatten/ueberwachungsskandal-der-nsa-das-geheimnis-okkupiert-den-staat-12215281.html",
+"title": "Das Geheimnis okkupiert den Staat: Der Überwachungsskandal der NSA" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116995927/Der-Enthueller-des-US-Lauschangriffs-sucht-Asyl.html",
+"title": "Prism-Programm: Der Enthüller des US-Lauschangriffs sucht Asyl" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116978084/Ich-hatte-Mails-Passwoerter-Kreditkartendaten.html",
+"title": "NSA-Überwachung: \"Ich hatte Mails, Passwörter, Kreditkartendaten\"" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116973049/29-Jaehriger-bekennt-sich-zu-US-Datenspionage-Enthuellung.html",
+"title": "Edward Snowden: 29-Jähriger bekennt sich zu US-Datenspionage-Enthüllung" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117045042/Google-will-Anfragen-der-Regierung-veroeffentlichen.html",
+"title": "US-Daten-Affäre: Google will Anfragen der Regierung veröffentlichen" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117076961/Deutsche-Geheimdienste-profitieren-von-US-Daten.html",
+"title": "Prism-Affäre: Deutsche Geheimdienste profitieren von US-Daten" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117070270/Sensationelle-Allianz-der-amerikanischen-Erzfeinde.html",
+"title": "Fall Edward Snowden: Sensationelle Allianz der amerikanischen Erzfeinde" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117045042/Google-will-Anfragen-der-Regierung-veroeffentlichen.html",
+"title": "US-Daten-Affäre: Google will Anfragen der Regierung veröffentlichen" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/ausland/amerika/fall-snowden-wachsender-widerstand-gegen-datenueberwachung-amerikas-12218868.html",
+"title": "Widerstand gegen Datensammelwut in Amerika wächst" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117107224/FBI-leitet-Ermittlungen-gegen-Snowden-ein.html",
+"title": "Prism-Affäre: FBI leitet Ermittlungen gegen Snowden ein" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117103835/Die-erotische-Vergangenheit-einer-CIA-Direktorin.html",
+"title": "Avril Haines: Die erotische Vergangenheit einer CIA-Direktorin" 
+},
+{
+ "url": "http://www.welt.de/wirtschaft/webwelt/article117082607/Snowden-berichtet-von-Hackerangriffen-auf-China.html",
+"title": "Whistleblower: Snowden berichtet von Hackerangriffen auf China" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/aus-dem-maschinenraum/europa-und-die-nsa-enthuellung-das-praechtige-neue-gewand-der-guten-alten-wirtschaftsspionage-12220566.html",
+"title": "Das prächtige neue Gewand der guten alten Wirtschaftsspionage: Europa und die NSA-Enthüllung" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117128946/USA-versprechen-der-EU-Informationen-ueber-Prism.html",
+"title": "Überwachungsskandal: USA versprechen der EU Informationen über Prism" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117153740/Die-US-Geheimdienste-geben-uns-wichtige-Hinweise.html",
+"title": "Hans-Peter Friedrich: \"Die US-Geheimdienste geben uns wichtige Hinweise\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117154883/Friedrich-will-Huerden-fuer-EU-Einreise-erhoehen.html",
+"title": "Terrorbekämpfung: Friedrich will Hürden für EU-Einreise erhöhen" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/datenueberwachung-der-grosse-staubsauger-12222781.html",
+"title": "Datenüberwachung: Der große Staubsauger" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117211174/Obama-vertiefte-und-erweiterte-Datenmissbrauch.html",
+"title": "Edward Snowden: \"Obama vertiefte und erweiterte Datenmissbrauch\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117252856/Deutschland-empfaengt-die-Familie-Obama.html",
+"title": "US-Präsident in Berlin: Deutschland empfängt die Familie Obama" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117245250/Kauder-fordert-Klarheit-ueber-Spaehprogramm-Prism.html",
+"title": "Obama-Besuch: Kauder fordert Klarheit über Spähprogramm Prism" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117230271/Familie-Obama-ist-in-Deutschland-angekommen.html",
+"title": "Minutenprotokoll: Familie Obama ist in Deutschland angekommen" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117210887/Wo-Sie-Obama-sehen-oder-ihm-entgehen-koennen.html",
+"title": "25:05 Stunden Berlin : Wo Sie Obama sehen oder ihm entgehen können" 
+},
+{
+ "url": "http://www.welt.de/politik/article117212627/Navy-Seals-sollen-Obama-in-Berlin-beschuetzen.html",
+"title": "Berlin-Besuch: Navy Seals sollen Obama in Berlin beschützen" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117283088/Einmal-klingt-Obama-doch-wie-ein-Merkel-Kritiker.html",
+"title": "Berlin-Besuch: Einmal klingt Obama doch wie ein Merkel-Kritiker" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117272010/Die-kleine-Angela-moechte-aus-Neuland-abgeholt-werden.html",
+"title": "Twitter-Häme: \"Die kleine Angela möchte aus #Neuland abgeholt werden\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117248169/Werden-auch-Deutsche-belauscht-Mr-President.html",
+"title": "Fragen an Obama: Werden auch Deutsche belauscht, Mr. President?" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117254916/Familie-Obama-hebt-mit-Air-Force-One-ab.html",
+"title": "Minutenprotokoll: Familie Obama hebt mit Air Force One ab" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117291820/Obama-Rede-auf-der-Titelseite-mit-einem-Halbsatz.html",
+"title": "Reaktionen: Obama-Rede auf der Titelseite – mit einem Halbsatz" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117333274/Wikileaks-will-Snowden-nach-Island-holen.html",
+"title": "Flugzeug gechartert: Wikileaks will Snowden nach Island holen" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117368727/Wenn-das-so-stimmt-waere-dies-nicht-akzeptabel.html",
+"title": "Datenüberwachung: \"Wenn das so stimmt, wäre dies nicht akzeptabel\"" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/abhoerprogramme-schleppnetz-und-harpune-12240495.html",
+"title": "Abhörprogramme: Schleppnetz und Harpune" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117384243/Die-Schnueffler-Ihrer-Majestaet-schalten-sich-dazu.html",
+"title": "Spionage: Die Schnüffler Ihrer Majestät schalten sich dazu" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117369479/Alexander-der-Grosse-General-der-Spaeh-Allianz.html",
+"title": "NSA-Chef: Alexander \"der Große\", General der Späh-Allianz" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117414984/Netz-Ueberwachung-spaltet-schwarz-gelbe-Koalition.html",
+"title": "Prism & Co: Netz-Überwachung spaltet schwarz-gelbe Koalition  " 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117412197/Peking-und-Moskau-demuetigen-Obama.html",
+"title": "Prism-Affäre: Peking und Moskau demütigen Obama" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117445374/Snowden-noch-im-Transitbereich-in-Moskau.html",
+"title": "Flughafen: Snowden noch im Transitbereich in Moskau" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117423207/Briten-spaehten-systematisch-deutsche-Daten-aus.html",
+"title": "Angezapftes Kabel: Briten spähten systematisch deutsche Daten aus" 
+} 
+] 
+} 
+]

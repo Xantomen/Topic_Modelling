@@ -1,0 +1,2366 @@
+[
+ {
+ "x": 0.34905,
+"y": 0.3678,
+"no_docs":     15,
+"words": [
+ {
+ "prob": 1.455e-05,
+"word": "lord" 
+},
+{
+ "prob": 3.2795e-05,
+"word": "papst" 
+},
+{
+ "prob": 1.455e-05,
+"word": "kirche" 
+},
+{
+ "prob": 0.0002556,
+"word": "weidenfeld" 
+},
+{
+ "prob": 1.455e-05,
+"word": "merkel" 
+},
+{
+ "prob": 1.455e-05,
+"word": "schneider" 
+},
+{
+ "prob": 3.2795e-05,
+"word": "benedikt" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.36438,
+"y": 0.35555,
+"no_docs":     47,
+"words": [
+ {
+ "prob": 1.5976e-05,
+"word": "film" 
+},
+{
+ "prob": 1.5976e-05,
+"word": "cher" 
+},
+{
+ "prob": 1.5976e-05,
+"word": "pal" 
+},
+{
+ "prob": 3.5909e-05,
+"word": "django" 
+},
+{
+ "prob": 5.5581e-05,
+"word": "frauen" 
+},
+{
+ "prob": 1.5976e-05,
+"word": "nner" 
+},
+{
+ "prob": 1.5976e-05,
+"word": "frankfurter" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.60634,
+"y": 0.47337,
+"no_docs":      2,
+"words": [
+ {
+ "prob": 1.0166e-05,
+"word": "school" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "millard" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "students" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "video" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "class" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "devon" 
+},
+{
+ "prob": 1.0166e-05,
+"word": "business" 
+} 
+],
+"docs": [
+ {
+ "url": "http://news.nationalpost.com/2013/01/15/lost-without-a-map-despite-a-globalized-society-university-students-cant-locate-the-atlantic-ocean/",
+"title": "Lost without a map: Despite a globalized society, university students can’t locate the Atlantic Ocean" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/23/overblown-and-sensationalized-author-says-bullying-issue-is-more-nuanced-than-black-and-white/",
+"title": "‘Overblown and sensationalized’: Author says bullying issue is more nuanced than black and white" 
+},
+{
+ "url": "http://www.guardian.co.uk/media/2013/jan/20/bauer-media-closer-grazia-kiss",
+"title": "MediaGuardian 25: The Heat is on as Bauer looks to change its tune" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130215/TECHNOLOGY/302150395/1478/rss",
+"title": "My classmate, the robot: New York student attends remotely" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22596389/my-classmate-robot-ny-pupil-attends-remotely?source=rss",
+"title": "My classmate, the robot: NY pupil attends remotely" 
+},
+{
+ "url": "http://www.guardian.co.uk/education/teacher-blog/2013/may/13/language-learning-classroom-resources",
+"title": "How to teach ... languages creatively" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2324222/Loca-adorable-pug-just-figure-run-internet-video-star.html",
+"title": "Loca the adorable pug who just can't figure out how to run becomes internet video star" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2bf8555d/l/0L0Sindependent0O0Clife0Estyle0Cmotoring0Cfeatures0Csir0Etorquil0Enorman0Ehas0Edesigned0Ea0Eflatpack0Eox0Etruck0Efor0Ethe0Edeveloping0Eworld0E86178140Bhtml/story01.htm",
+"title": "Sir Torquil Norman has designed a flat-pack OX truck for the developing world" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/17/dont-be-fooled-by-googles-babyfacery",
+"title": "Don't be fooled by Google's Prius-driving babyfacery | Marina Hyde" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/17/dellen-millard-suspect-in-tim-bosmas-death-was-always-a-little-different-classmate-says/",
+"title": "Suspect in Tim Bosma’s death was always ‘a little different’ and did ‘odd stuff’ at private school, classmate says" 
+},
+{
+ "url": "http://www.guardian.co.uk/media/2013/may/19/vevo-nic-jones",
+"title": "Vevo boss Nic Jones: 'We're at the pointy end of labels' activities'" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/28/fearing-possible-second-case-toronto-police-homicide-unit-searches-tim-bosma-suspects-farm/",
+"title": "Fearing possible second case, Toronto Police Homicide Unit searches Tim Bosma suspect’s farm" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/30/opp-joins-dellen-millard-probe-after-blood-in-manitoulin-yacht-allegedly-linked-to-bosma-suspect/",
+"title": "OPP joins Dellen Millard probe after blood in Manitoulin yacht allegedly linked to Bosma suspect" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337326/Cat-beards-month--Newest-internet-pet-phenomenon-CATFRO.html",
+"title": "Cat-beards are so last month... Newest internet pet phenomenon is the CATFRO!" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/joris-luyendijk-banking-blog/2013/jun/19/banking-britain-beyond-control",
+"title": "Our banks are not merely out of control. They're beyond control | Joris Luyendijk" 
+} 
+] 
+},
+{
+ "x": 0.75006,
+"y": 0.75814,
+"no_docs":     10,
+"words": [
+ {
+ "prob": 5.0515e-06,
+"word": "arias" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "trial" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "alexander" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "death" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "case" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "murder" 
+},
+{
+ "prob": 5.0515e-06,
+"word": "court" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28e7db62/l/0L0Sindependent0O0Cnews0Cworld0Ceurope0Cfilm0Ereveals0Ehow0Ekidnap0Evictim0Enatascha0Ekampusch0Ewas0Eraped0Eby0Eabductor0E850A86130Bhtml/story01.htm",
+"title": "Film reveals how kidnap victim Natascha Kampusch was raped by abductor" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2a0145ce/l/0L0Sindependent0O0Cnews0Cworld0Ceurope0Clegal0Ebattle0Eresumes0Eamanda0Eknox0Eand0Eraffaele0Esollecito0Eto0Ebe0Etried0Eagain0Eover0Emurder0Eof0Emeredith0Ekercher0E85493730Bhtml/story01.htm",
+"title": "Legal battle resumes: Amanda Knox and Raffaele Sollecito to be tried again over murder of Meredith Kercher" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2a30db54/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Czumba0Edance0Eteacher0Eadmits0Eprostitution0Echarge0E0Emeaning0Eher0Eclients0Ewill0Enot0Ebe0Ecalled0Eas0Ewitnesses0E85557150Bhtml/story01.htm",
+"title": "Zumba dance teacher admits prostitution charge - meaning her clients will not be called as witnesses" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/01/30/axe-murderer-appeals-conviction-denies-killing-long-time-boyfriend-to-be-with-lesbian-lover/",
+"title": "Axe murderer appeals conviction, denies killing long-time boyfriend to be with lesbian lover" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/25/trial-for-new-york-city-cop-accused-in-plot-to-cook-eat-women-begins-today/",
+"title": "Trial for New York City cop accused in plot to cook, eat women begins today" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/03/30/small-town-zumba-teacher-pleads-guilty-to-using-studio-for-prostitution/",
+"title": "Small-town Zumba teacher pleads guilty to using studio for prostitution" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/l7JXAKUDQ-E/story01.htm",
+"title": "Chief Keef jailed after judge finds probation violation" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/gr4m3odruVc/story01.htm",
+"title": "Suspect in Pendleton slaying indicted on many murder counts" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/9kkYeIFVmvE/story01.htm",
+"title": "Pistorius detective facing attempted murder charges" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/6I4Olyna8eA/story01.htm",
+"title": "Man who posed as a Rockefeller convicted of California murder" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/WviU5FH2qx4/story01.htm",
+"title": "Gonzalez: Court fight with 'Ground Zero' imam taints both sides" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/a4DRjn10b3M/story01.htm",
+"title": "TV personalities caught up in scandal have a tough time coming back" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22517020/ariz-woman-charged-lovers-slaying-testifies?source=rss",
+"title": "Ariz. woman charged in lover's slaying testifies" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22635213/safrica-police-pistorius-detective-faces-charges?source=rss",
+"title": "SAfrica police replace top Pistorius investigator" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22906047/zumba-teacher-could-get-jail-prostitution-case?source=rss",
+"title": "Zumba teacher could get jail in prostitution case" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22901970/maine-zumba-teacher-pleads-guilty-prostitution?source=rss",
+"title": "Maine Zumba teacher pleads guilty to prostitution" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23010444/arias-sells-art-money-profits-from-notoriety?source=rss",
+"title": "Psychotherapist back on stand in Arias trial" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23010444/arias-sells-art-money-profits-from-notoriety?source=rss",
+"title": "Another juror released from Arias murder trial" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/CLDPRkuE67U/story01.htm",
+"title": "Amanda Knox tells all" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23136529/jury-set-start-weighing-pa-abortion-deaths?source=rss",
+"title": "Pa. abortion doctor's murder trial goes to jury" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23154230/prosecutor-arias-case-set-closing-arguments",
+"title": "Prosecutor calls Jodi Arias a manipulative liar" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130503/NATION/305030431/1478/rss",
+"title": "Jodi Arias' lawyer: Murder case about 'fear, love, sex, lies and dirty little secrets'" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23171389/jurors-start-deliberating-arias-murder-trial",
+"title": "Jurors start deliberating in Arias murder trial" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130508/NATION/305080413/1478/rss",
+"title": "Jodi Arias convicted of first-degree murder" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/aMCDoakwLT4/story01.htm",
+"title": "Jodi Arias verdict: Guilty of first-degree murder" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23196469/jurors-resume-deliberations-jodi-arias-trial",
+"title": "Jodi Arias convicted of first-degree murder" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/hB9HmVdCr9U/story01.htm",
+"title": "Arizona jury finds Jodi Arias guilty of first-degree murder" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130509/NATION/305090406/1478/rss",
+"title": "Jury to decide whether Arias will get death penalty for boyfriend's death" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23205147/arias-says-interview-that-she-wants-death",
+"title": "Arias trial postponed until next week" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/r85FSJhNTtI/story01.htm",
+"title": "O.J. Simpson seeks new trial" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130515/NATION/305150355/1478/rss",
+"title": "Jurors in Arias case weigh death penalty option" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23247485/lawyers-ohio-kidnap-suspect-will-plead-not-guilty",
+"title": "Lawyer: Ohio kidnap suspect will plead not guilty" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23246649/arias-back-court-jury-ponders-death-option",
+"title": "Jurors in Arias case weigh death penalty option" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23264618/ex-oj-lawyer-testify-bid-new-vegas-trial",
+"title": "Former lawyer says OJ Simpson knew about guns" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/eHgas6EkByE/One-eyed-police-killer-Dale-Cregan-admits-murdering-father-and-son",
+"title": "One-eyed police killer Dale Cregan admits murdering father and son" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130524/NATION/305240357/1478/rss",
+"title": "Jury foreman says Arias testimony didn't help her in murder case" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23314542/jury-arias-case-gives-up-after-no-consensus",
+"title": "Arias foreman: Sentencing decision unfair to jury" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/Ad_R3ZSHZEc/story01.htm",
+"title": "Deadlocked jurors in Arias trial describe ‘awful’ feeling" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23359664/zumba-instructor-be-sentenced-prostitution",
+"title": "Zumba instructor gets 10 months for prostitution" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130603/NATION/306030351/1478/rss",
+"title": "Defense denies erotic dinners at Berusconi villa" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23376245/defense-berlusconi-not-guilty-sex-case",
+"title": "Defense denies erotic dinners at Berlusconi villa" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/06/05/3435671/gables-socialite-joyce-cohen-will.html",
+"title": "Coconut Grove socialite Joyce Cohen will stay in prison much longer in &#x2019;86 killing of developer husband" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337501/Supermodel-Naomi-Campbell-stand-trial-attack-Italian-photographer-hospital.html",
+"title": "Supermodel Naomi Campbell to stand trial after 'attack on Italian photographer which put him in hospital'" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/rDByU3nJV5A/story01.htm",
+"title": "Trayvon Martin killer George Zimmerman trial jury to be sequestered: Judge" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/4Saqyf-KDXs/Stuart-Hall-sentenced-to-15-months-in-prison-after-admitting-14-counts-of-sexual-assault",
+"title": "Stuart Hall sentenced to 15 months in prison after admitting 14 counts of sexual assault" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/nsoufmxwYrg/story01.htm",
+"title": "Whitey Bulger swears in court" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23534986/grim-milestone-texas-set-execute-500th-inmate",
+"title": "Texas prepares to execute 500th inmate" 
+} 
+] 
+},
+{
+ "x": 0.29345,
+"y": 0.45761,
+"no_docs":     38,
+"words": [
+ {
+ "prob": 1.079e-05,
+"word": "bayern" 
+},
+{
+ "prob": 0.0014369,
+"word": "ball" 
+},
+{
+ "prob": 0.00023956,
+"word": "league" 
+},
+{
+ "prob": 0.00026748,
+"word": "fc" 
+},
+{
+ "prob": 5.0904e-05,
+"word": "gegen" 
+},
+{
+ "prob": 5.1853e-05,
+"word": "fu" 
+},
+{
+ "prob": 6.4613e-05,
+"word": "mannschaft" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.spiegel.de/sport/fussball/fa-cup-chelsea-und-mancity-feiern-klare-pokalsiege-a-883933.html#ref=rss",
+"title": "Englischer Fußball: Chelsea und ManCity feiern klare Pokalsiege" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/fussball-bayern-muenchen-gewinnt-pokalfinale-gegen-den-vfb-stuttgart-a-903270.html#ref=rss",
+"title": "Pokalsieg des FC Bayern: Triple!" 
+} 
+] 
+},
+{
+ "x": 0.53586,
+"y": 0.41793,
+"no_docs":     10,
+"words": [
+ {
+ "prob": 1.2258e-05,
+"word": "pistorius" 
+},
+{
+ "prob": 0.00028906,
+"word": "mcgillvary" 
+},
+{
+ "prob": 1.2256e-05,
+"word": "south" 
+},
+{
+ "prob": 1.2256e-05,
+"word": "fort" 
+},
+{
+ "prob": 1.2257e-05,
+"word": "kai" 
+},
+{
+ "prob": 1.2257e-05,
+"word": "james" 
+},
+{
+ "prob": 2.7073e-05,
+"word": "attawapiskat" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/274f2ef3/l/0L0Sindependent0O0Ctravel0Ceurope0Chusky0Emushing0Ein0Elapland0Ethe0Etrip0Ewith0Epawwheel0Edrive0E84429680Bhtml/story01.htm",
+"title": "Husky mushing in Lapland: The trip with paw-wheel drive" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28c3002b/l/0L0Sindependent0O0Csport0Cgeneral0Cathletics0Coscar0Epistorius0Ecould0Ebe0Estripped0Eof0Eparalympic0Egold0Emedals0Eamid0Eallegations0Eof0Eperformanceenhancing0Edrug0Euse0E850A28570Bhtml/story01.htm",
+"title": "Oscar Pistorius could be stripped of Paralympic gold medals amid allegations of performance-enhancing drug use" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/01/03/eric-brossier-trades-brie-and-baguettes-for-a-cozy-nook-in-the-canadian-arctic/",
+"title": "Life in the place that never thaws: French Family trades brie and baguettes for a cozy nook in the Canadian Arctic" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/01/19/for-modern-reserves-success-is-in-balancing-tradition-and-capitalism/",
+"title": "‘You gotta know how to do things yourself up here’: For modern reserves, success is in balancing tradition and capitalism" 
+},
+{
+ "url": "http://www.guardian.co.uk/music/2013/feb/24/wolfgang-sawallisch",
+"title": "Wolfgang Sawallisch obituary" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/05/readers-editor-shark-infested-cliche",
+"title": "The readers' editor on … a fishy tale of infestation and survival" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2325715/Kai-hero-hatchet-wielding-homeless-hitchhiking-Internet-celebrity-wanted-MURDER-lawyer-73-dead-day-drifter-claimed-Facebook-hed-sexually-assaulted.html",
+"title": "Kai the hero hatchet-wielding homeless hitchhiking Internet celebrity wanted for MURDER of lawyer, 73, found dead on same day drifter claimed on Facebook he'd been sexually assaulted" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23264429/hatchet-hitchhiker-arrested-nj-homicide",
+"title": "Pa. coffee run leads to hatchet hitchhiker arrest" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/fFtw-lh6qpo/story01.htm",
+"title": "Cruise canceled after fire aboard ship" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/may/31/pacific-wreck-amelia-earharts-plane",
+"title": "Pacific sonar 'streak' may be wreck of Amelia Earhart's plane" 
+} 
+] 
+},
+{
+ "x": 0.59189,
+"y": 0.46341,
+"no_docs":     31,
+"words": [
+ {
+ "prob": 9.1018e-06,
+"word": "show" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "year" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "film" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "star" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "music" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "jackson" 
+},
+{
+ "prob": 9.1018e-06,
+"word": "york" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/27274676/l/0L0Sindependent0O0Carts0Eentertainment0Ctheatre0Edance0Cnews0Chackleraising0Eplay0Estarring0Eblackedup0Eactors0Eto0Eshowcase0Eat0Esuffolk0Etheatre0Efestival0E84367790Bhtml/story01.htm",
+"title": "'Hackle-raising' play starring blacked-up actors to showcase at Suffolk theatre festival" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2a319482/l/0L0Sindependent0O0Cnews0Cobituaries0Cdeke0Erichards0Emotown0Eman0Ewho0Emastermindedthe0Ejackson0E50E85556480Bhtml/story01.htm",
+"title": "Deke Richards: Motown man who masterminded the Jackson 5" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2abfceac/l/0L0Sindependent0O0Carts0Eentertainment0Cbooks0Cnews0Cwomen0Ewriters0Ein0Ethe0Eascendant0Ein0Egrantas0Eonceadecade0Ebest0Eof0Eyoung0Ebritish0Enovelists0Elist0E85741680Bhtml/story01.htm",
+"title": "Women writers in the ascendant in Granta's once-a-decade Best of Young British Novelists list" 
+},
+{
+ "url": "http://www.guardian.co.uk/books/2013/jan/29/hilary-mantel-bring-bodies-costa-prize",
+"title": "Hilary Mantel's Bring up the Bodies wins Costa prize after unanimous vote" 
+},
+{
+ "url": "http://www.guardian.co.uk/stage/2013/feb/04/feast-review",
+"title": "Feast – review" 
+},
+{
+ "url": "http://www.guardian.co.uk/theguardian/2013/feb/23/archive-1987-andy-warhol-prophet",
+"title": "From the archive, 23 February 1987: The prophet of anything goes" 
+},
+{
+ "url": "http://www.guardian.co.uk/music/2013/mar/17/avett-brothers-forum-review",
+"title": "The Avett Brothers – review" 
+},
+{
+ "url": "http://www.guardian.co.uk/stage/2013/apr/07/royal-ballet-la-bayadere-review",
+"title": "Royal Ballet: La Bayadère – review" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/_P06cYW_rZs/story01.htm",
+"title": "'Snakes on a Plane’ director David R. Ellis dies at 60" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/7WT9Q3hrz3A/story01.htm",
+"title": "Supe will have big play -- or bust!" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/3hlhDFpHv7A/story01.htm",
+"title": "Super Bowl XLVII ads to watch for" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/6PTB0QEreaM/story01.htm",
+"title": "Graffiti is focus of Adam Mansbach's 'Rage'" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/aeTALrOC2hE/story01.htm",
+"title": "WATCH: SI models do The Harlem Shake" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/-xx9ddksvEY/story01.htm",
+"title": "Dad defends Lindsay Lohan against 'psychotic' claim" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/tGxSHPvn4UQ/story01.htm",
+"title": "Justin Bieber backs debit card for teens" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/E7IZVMlHJ1c/story01.htm",
+"title": "A big 'Sensation' in dance music heads to Brooklyn" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22385094?source=rss",
+"title": "PSY's 'Gangnam Style' wins Korean top song award" 
+},
+{
+ "url": "http://www.denverpost.com/news/ci_22561541/2013-grammy-awards-mumfords-rootsy-music-gets-top?source=rss",
+"title": "2013 Grammy Awards: Mumford's rootsy music gets top Grammy, but it was share and share alike" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/Ti2uNLdZXAI/story01.htm",
+"title": "New courtroom drama over Michael Jackson to begin Monday" 
+},
+{
+ "url": "http://www.guardian.co.uk/film/2013/may/01/star-trek-into-darkness",
+"title": "Star Trek Into Darkness – review" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130512/ENT10/305120336/1478/rss",
+"title": "'American Idol' judges drama upstaging competition" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/53X6CSGN4ew/story01.htm",
+"title": "F-bomb anchor A.J. Clemente now working as bartender" 
+},
+{
+ "url": "http://www.guardian.co.uk/music/2013/may/14/the-phoenix-foundation-review",
+"title": "The Phoenix Foundation – review" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/jvEmdnJITZE/story01.htm",
+"title": "ABC reveals 2013-14 fall season schedule" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2c125b7e/l/0L0Sindependent0O0Carts0Eentertainment0Cart0Cfeatures0Cpussy0Eriot0Eputinbashing0Epunk0Erock0Eand0Epolitics0Emake0Efor0Ea0Eriotous0Emix0E86197750Bhtml/story01.htm",
+"title": "Pussy Riot: Putin-bashing, punk rock and politics make for a riotous mix" 
+},
+{
+ "url": "http://www.dailymail.co.uk/tvshowbiz/article-2331278/Cannes-Film-Festival-2013-Palme-Dor-awarded-film-features-lesbian-sex-leaves-imagination.html",
+"title": "Cannes Film Festival 2013: Palme D'or awarded to film which features lesbian sex 'that leaves nothing to the imagination'" 
+},
+{
+ "url": "http://www.guardian.co.uk/sport/2013/may/27/frankie-dettori-derby-magician",
+"title": "Frankie Dettori waits to learn if he can ride in Saturday's Derby" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2333475/Watch-Garfield-Internet-sensation-Tardar-Sauce-grumpy-cat-set-star-Hollywood-movie.html",
+"title": "Watch out Garfield! Internet sensation Tardar Sauce the grumpy cat set to star in her own Hollywood movie" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/HTH7LbkpB40/story01.htm",
+"title": "Justin Bieber denies second paternity claim, spotted underage clubbing in New York" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2ce48070/l/0L0Sindependent0O0Carts0Eentertainment0Ctheatre0Edance0Cfeatures0Cthe0Etony0Enominations0Efeelgood0Efun0Efrom0Ethe0Ebest0Eof0Ebroadway0E86464610Bhtml/story01.htm",
+"title": "The Tony nominations: Feelgood fun from the best of Broadway" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/WYahQz2RzpQ/story01.htm",
+"title": "Miguelito releases first English-language album 'Here to Stay'" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/qKKsEUwNvvQ/Dannii-Minogue-s-model-behaviour",
+"title": "Dannii Minogue&#039;s model behaviour" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/evw-nYpfqig/story01.htm",
+"title": "SEE IT: 'The Hobbit' cast reacts to fans' viral video" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/JkT6ir5DHxU/Cunning-plan-comes-together-as-hapless-Baldrick-is-knighted-in-Birthday-Honours",
+"title": "Cunning plan comes together as hapless Baldrick is knighted in Birthday Honours" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d9ee8d6/l/0L0Sindependent0O0Carts0Eentertainment0Ctv0Cnews0Cfact0Eand0Efiction0Ecollide0Eas0Eglee0Eactor0Ematthew0Emorrison0Eaka0Emr0Eschue0Eplans0Eto0Eopen0Epeforming0Earts0Eschools0Efor0Etalented0Ekids0E86686850Bhtml/story01.htm",
+"title": "Fact and fiction collide as ‘Glee’ actor Matthew Morrison (aka Mr Schue) plans to open peforming arts schools for talented kids" 
+},
+{
+ "url": "http://www.guardian.co.uk/tv-and-radio/2013/jun/21/the-voice-bbc-could-overhaul-it",
+"title": "The Voice: elements of TV talent show need to be reviewed, says BBC" 
+},
+{
+ "url": "http://www.guardian.co.uk/music/2013/jun/23/killers-wembley-stadium-review",
+"title": "The Killers – review" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2347697/How-DOES-He-walks-water-strolls-skyscrapers-magician-Dynamo-novel-way-catching-bus.html",
+"title": "How DOES he do it? He walks on water, strolls down skyscrapers and now magician Dynamo has a novel way of catching a bus" 
+} 
+] 
+},
+{
+ "x": 0.60161,
+"y": 0.48964,
+"no_docs":     14,
+"words": [
+ {
+ "prob": 1.0416e-05,
+"word": "government" 
+},
+{
+ "prob": 0.00083284,
+"word": "brennan" 
+},
+{
+ "prob": 1.0416e-05,
+"word": "obama" 
+},
+{
+ "prob": 1.0417e-05,
+"word": "bush" 
+},
+{
+ "prob": 1.0417e-05,
+"word": "program" 
+},
+{
+ "prob": 1.0416e-05,
+"word": "president" 
+},
+{
+ "prob": 1.0416e-05,
+"word": "house" 
+} 
+],
+"docs": [
+ {
+ "url": "http://news.nationalpost.com/2013/02/06/obamas-cia-director-nominee-was-silent-on-torture-technique-waterboarding-during-bush-administration/",
+"title": "Obama’s CIA director nominee was silent on torture technique waterboarding during Bush administration" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130202/NATION/302020377/1478/rss",
+"title": "Goodbye Barney: Thousands mourn Bush's terrier" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22506220/barney-former-white-house-scottie-dies?source=rss",
+"title": "Goodbye Barney: Thousands mourn Bush's terrier" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22529772/brennan-once-stung-by-waterboarding-now-opposes?source=rss",
+"title": "Brennan, once stung by waterboarding, now opposes" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22765861/what-you-like-facebook-can-be-revealing?source=rss",
+"title": "What you 'like' on Facebook can be revealing" 
+},
+{
+ "url": "http://www.dailymail.co.uk/sciencetech/article-2330297/Apple-1-Think-iPad-expensive-First-Apple-sells-398-000-STILL-works-perfectly.html",
+"title": "Apple 1: Think your iPad is expensive? First Apple computer ever made sells for £398,000 (and it STILL works perfectly)" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23355307/obamas-likely-pick-head-fbi-widely-praised",
+"title": "Obama's likely pick to head FBI widely praised" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/05/30/3425079/gov-rick-scott-signs-into-law.html",
+"title": "Gov. Rick Scott signs into law wide-ranging bill opposed by scores of environmentalists" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23383082/lawyer-manning-wanted-enlighten-us-about-war",
+"title": "Hacker who turned Manning in takes witness stand" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23467729/secret-prism-success-even-bigger-data-seizure",
+"title": "Secret to Prism program: Even bigger data seizure" 
+} 
+] 
+},
+{
+ "x": 0.32402,
+"y": 0.39655,
+"no_docs":    104,
+"words": [
+ {
+ "prob": 1.3631e-05,
+"word": "wulff" 
+},
+{
+ "prob": 1.3631e-05,
+"word": "fdp" 
+},
+{
+ "prob": 4.7736e-05,
+"word": "sler" 
+},
+{
+ "prob": 1.3631e-05,
+"word": "gysi" 
+},
+{
+ "prob": 1.3631e-05,
+"word": "christian" 
+},
+{
+ "prob": 3.0684e-05,
+"word": "hannover" 
+},
+{
+ "prob": 9.8376e-05,
+"word": "niedersachsen" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.64271,
+"y": 0.52134,
+"no_docs":     25,
+"words": [
+ {
+ "prob": 7.9406e-06,
+"word": "party" 
+},
+{
+ "prob": 0.0019824,
+"word": "thatcher" 
+},
+{
+ "prob": 7.9387e-06,
+"word": "government" 
+},
+{
+ "prob": 1.8179e-05,
+"word": "british" 
+},
+{
+ "prob": 7.9387e-06,
+"word": "minister" 
+},
+{
+ "prob": 7.9387e-06,
+"word": "political" 
+},
+{
+ "prob": 7.9387e-06,
+"word": "prime" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2acad3b5/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cmargaret0Ethatcher0Eand0Ethe0Equeen0Ethe0Etwo0Emost0Epowerful0Ewomen0Ein0Ethe0Eworld0E85756640Bhtml/story01.htm",
+"title": "Margaret Thatcher and the Queen: The two most powerful women in the world" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2a8696a3/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cdid0Emargaret0Ethatcher0Ereally0Esave0Ebritain0E85665960Bhtml/story01.htm",
+"title": "Did Margaret Thatcher really 'save' Britain?" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2a9d6371/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cglenda0Ejackson0Eon0Ethe0Edeath0Eof0Emargaret0Ethatcher0Ei0Espoke0Eto0Estop0Ehistory0Ebeing0Erewritten0E85693920Bhtml/story01.htm",
+"title": "Glenda Jackson on the death of Margaret Thatcher: I spoke to stop history being re-written" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2acad3b5/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cmargaret0Ethatcher0Eand0Ethe0Equeen0Ethe0Etwo0Emost0Epowerful0Ewomen0Ein0Ethe0Eworld0E85756640Bhtml/story01.htm",
+"title": "Margaret Thatcher and the Queen: The two most powerful women in the world" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/13/pakistan-supreme-court-questions-loyalty-of-canadian-cleric-at-head-of-influential-protest-movement/",
+"title": "Pakistan supreme court questions loyalty of Canadian cleric at head of influential protest movement" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jan/31/india-freedom-can-outdo-tyranny",
+"title": "Come on, India! Show us that freedom can outdo tyranny | Timothy Garton Ash" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/feb/07/tunisian-assassination-spotlight-problems",
+"title": "Tunisia killing turns spotlight on Arab spring poster child's masked problems" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/feb/24/italy-elections-end-to-sleaze-cronyism",
+"title": "Italy elections: an end to sleaze and cronyism?" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/apr/07/osborne-philpott-welfare-benefits-reform",
+"title": "George Osborne insists linking Mick Philpott to welfare reform was right" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130120/NATION/301200319/1478/rss",
+"title": "Italy's Berlusconi: I won't be premier if my party wins" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22608812/ecuador-leader-heavily-favored-win-re-election?source=rss",
+"title": "Ecuador leader heavily favored to win re-election" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/01/08/3172551/climate-change-wont-wait.html",
+"title": "Climate change won't wait" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23264455/report-torture-evidence-found-syrian-prisons",
+"title": "Report: Torture evidence found in Syrian prisons" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/19/cameron-swivel-eyed-loons-conservatives-failed",
+"title": "Cameron had the chance to defy the 'swivel-eyed loons' and remake his party. He failed | Steve Richards" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/Hu4LWyCOd08/Staying-behind-bars-Abu-Qatada-is-denied-bail-despite-claims-cleric-deserves-freedom",
+"title": "Staying behind bars: Abu Qatada is denied bail despite claims cleric deserves freedom" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/23/woolwich-attack-echo-chamber-mass-hysteria",
+"title": "Woolwich attack: This echo chamber of mass hysteria only aids terrorists | Simon Jenkins" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2331004/Abu-Nusaybah-Friend-claimed-Woolwich-suspect-offered-MI5-job-linked-banned-Islamist-group.html",
+"title": "Abu Nusaybah: Friend who claimed Woolwich suspect was 'offered MI5 job' is linked to banned Islamist group" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2331565/Woolwich-terror-suspects-The-web-extremism-surrounding-murder-Drummer-Lee-Rigby.html",
+"title": "Woolwich terror suspects: The web of extremism surrounding murder of Drummer Lee Rigby" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2334483/No-10-rocked-secret-love-affair-Stunned-PM-holds-crisis-talks-fears-tryst-blow-political-agenda-water.html",
+"title": "No.10 rocked by secret love affair: 'Stunned' PM holds crisis talks over fears tryst will 'blow political agenda out of the water'" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23377497/jordan-304-national-news-websites-blocked",
+"title": "Jordan: 304 national news websites blocked" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2337831/Hate-preacher-Anjem-Choudary-leaves-shops-bags-stuffed-treats-spending-25-000-year-benefits-cash.html",
+"title": "Hate preacher Anjem Choudary leaves the shops with bags stuffed full of treats after spending some of his £25,000 a year benefits cash" 
+},
+{
+ "url": "http://www.guardian.co.uk/media/2013/jun/13/bbc-galloway-farage-question-time-scottish",
+"title": "BBC criticised over Farage and Galloway Question Time appearance" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2340922/Video-shows-Russian-president-Vladimir-Putin-looking-uncomfortable-awkward-rare-public-address-English.html",
+"title": "Video shows Russian president Vladimir Putin looking uncomfortable and awkward during rare public address in English" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/Zxre0nMaKro/Nothing-is-off-the-table-Britain-may-step-up-response-to-Syrian-crisis-as-PM-backs-US",
+"title": "&#039;Nothing is off the table&#039;: Britain may step up response to Syrian crisis as PM backs US" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d6a8404/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cdonald0Emacintyres0Esketch0Eif0Esyria0Ewas0Eon0Eeveryones0Emind0Ewhy0Ewas0Eno0Eone0Etalking0Eabout0Eit0E86624860Bhtml/story01.htm",
+"title": "Donald Macintyre's Sketch: If Syria was on everyone’s mind, why was no one talking about it?" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d69d34e/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cdonald0Emacintyres0Esketch0Etime0Efor0Etopical0Equestions0Ebut0Edont0Emention0Ethe0Esyrian0Erebels0E86624860Bhtml/story01.htm",
+"title": "Donald Macintyre's Sketch: Time for topical questions, but don’t mention the Syrian rebels" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d68c830/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cdonald0Emacintyres0Esketch0Edont0Eexpect0Epoliticians0Eto0Eask0Ea0Etopical0Equestion0Ejust0Ebecause0Esomethings0Ein0Ethe0Enews0E86624860Bhtml/story01.htm",
+"title": "Donald Macintyre's Sketch: Don't expect politicians to ask a topical question, just because something's in the news" 
+},
+{
+ "url": "http://www.guardian.co.uk/world/2013/jun/17/iran-hassan-rouhani-promises-moderation",
+"title": "Iranian president-elect Rouhani promises better relations with west" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2342998/Czech-PM-resigns-spy-corruption-scandal-involved-surveillance-estranged-wife.html",
+"title": "Czech PM resigns over spy and corruption scandal that involved surveillance of his estranged wife" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d850b42/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Candy0Emcsmiths0Ediary0Ewhen0Eprior0Eknowledge0E0Eappeared0Eto0Ebe0Elacking0E86658450Bhtml/story01.htm",
+"title": "Andy McSmith's Diary: When Prior knowledge appeared to be lacking" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2dbbbf64/l/0L0Sindependent0O0Cnews0Cuk0Cpolitics0Cour0Eman0Ein0Ewestminster0Eformer0Eantimandela0Ecamp0Eis0Esilent0E0Ein0Ecase0Eits0Emembers0Ehang0Ethemselves0E86721210Bhtml/story01.htm",
+"title": "Our Man in Westminster: Former anti-Mandela camp is silent – in case its members hang themselves" 
+} 
+] 
+},
+{
+ "x": 0.52591,
+"y": 0.41533,
+"no_docs":     44,
+"words": [
+ {
+ "prob": 1.3605e-05,
+"word": "texas" 
+},
+{
+ "prob": 3.105e-05,
+"word": "harper" 
+},
+{
+ "prob": 1.3605e-05,
+"word": "russian" 
+},
+{
+ "prob": 1.3605e-05,
+"word": "state" 
+},
+{
+ "prob": 1.3605e-05,
+"word": "stephen" 
+},
+{
+ "prob": 1.3605e-05,
+"word": "cohen" 
+},
+{
+ "prob": 1.3605e-05,
+"word": "city" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28dc15c2/l/0L0Sindependent0O0Cnews0Cpeople0Cprofiles0Cmarykay0Ewilmers0Elondons0Emythical0Eurban0Eelite0Emade0Eflesh0E850A77240Bhtml/story01.htm",
+"title": "Mary-Kay Wilmers: London's mythical urban elite made flesh" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/29118662/l/0L0Sindependent0O0Cnews0Cobituaries0Cvan0Ecliburn0Epiano0Evirtuoso0Ewho0Ehelped0Ethaw0Eussoviet0Erelations0E85157410Bhtml/story01.htm",
+"title": "Van Cliburn: Piano virtuoso who helped thaw US-Soviet relations" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/01/28/dayinthelife-stephen-harper-tweets-his-day/",
+"title": "#dayinthelife: Stephen Harper tweets his entire day" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/08/emotional-stephen-harper-tears-up-over-controversial-bill-to-keep-mentally-ill-murderers-in-prison-longer/",
+"title": "Emotional Stephen Harper tears up over controversial bill to keep mentally ill murderers in prison longer" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/7QjAY4lU_4s/story01.htm",
+"title": "Gnomes pop up on utility poles in Oakland, Calif." 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/UUsvijUzGYs/story01.htm",
+"title": "Congressman says he punk’d reporters with deleted tweet" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22473446/gnomes-stay-calif-utility-poles-now?source=rss",
+"title": "Gnomes to stay on Calif utility poles for now" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22473446/gnomes-stay-calif-utility-poles-now?source=rss",
+"title": "Gnomes to stay on Calif. utility poles for now" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22643248/us-ambassador-frustrated-over-russian-boys-death?source=rss",
+"title": "Kremlin waits for US probe in Russian boy's death" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22821284/authorities-no-charges-russian-boys-death?source=rss",
+"title": "Authorities: No charges in Russian boy's death" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/01/29/3206591/gnomes-to-stay-on-calif-utility.html",
+"title": "Gnomes to stay on Calif utility poles for now" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/01/29/3206591/gnomes-to-stay-on-calif-utility.html",
+"title": "Gnomes to stay on Calif. utility poles for now" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130430/POLITICS03/304300375/1478/rss",
+"title": "Report: FBI questions link between Virginia governor, donor" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/06/04/3433252/parole-release-date-to-be-set.html",
+"title": "Parole release date to be set for Coconut Grove socialite in 1986 murder of husband" 
+} 
+] 
+},
+{
+ "x":      0,
+"y":      1,
+"no_docs":      3,
+"words": [
+ {
+ "prob": 0.01197,
+"word": "der" 
+},
+{
+ "prob": 0.0046327,
+"word": "die" 
+},
+{
+ "prob": 0.0046433,
+"word": "und" 
+},
+{
+ "prob": 0.00029359,
+"word": "das" 
+},
+{
+ "prob": 0.0042444,
+"word": "den" 
+},
+{
+ "prob": 0.0016533,
+"word": "ist" 
+},
+{
+ "prob": 0.046669,
+"word": "zu" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.spiegel.de/sport/wintersport/winter-game-in-der-del-eishockey-vor-50-000-zuschauern-a-875477.html#ref=rss",
+"title": "\"Winter Game\" in der DEL: Das gekaufte Rekordspektakel" 
+},
+{
+ "url": "http://www.spiegel.de/netzwelt/gadgets/gadgets-von-neuerdings-com-wakawaka-power-gamestick-lumoback-a-875806.html#ref=rss",
+"title": "Neue Gadgets: Dieses Kraftwerk passt in die Hosentasche" 
+},
+{
+ "url": "http://www.spiegel.de/netzwelt/web/live-looping-tipps-der-spiegel-online-leser-a-872827.html#ref=rss",
+"title": "Lesertipps zu Live-Looping: Das sind die besten Videos der Soundschleifer" 
+},
+{
+ "url": "http://www.spiegel.de/panorama/leipzig-vierlinge-feiern-ersten-geburtstag-a-875996.html#ref=rss",
+"title": "Geburtstagsparty in Leipzig: Die fantastischen Vier" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/fc-arsenal-im-fa-cup-ausgeschieden-a-876000.html#ref=rss",
+"title": "Fußball international: Juve blamiert sich, Lyon scheitert an Drittligist" 
+},
+{
+ "url": "http://www.spiegel.de/politik/ausland/kurdenkonflikt-bluttat-von-paris-erschuettert-friedensprozess-a-876895.html#ref=rss",
+"title": "Pariser Bluttat: Dreifach-Mord an Kurdinnen gefährdet Friedensprozess" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/guardiola-nach-muenchen-bvb-boss-watzke-gratuliert-den-bayern-a-878026.html#ref=rss",
+"title": "Guardiola nach München: Dortmund-Boss Watzke gratuliert den Bayern" 
+},
+{
+ "url": "http://www.spiegel.de/sport/sonst/handball-wm-die-chancen-der-deutschen-mannschaft-a-878578.html#ref=rss",
+"title": "Deutsche Handballer bei der WM: Volle Power auf der Lauer" 
+},
+{
+ "url": "http://www.spiegel.de/politik/deutschland/fdp-wartet-nach-der-niedersachsen-auf-entscheidung-von-roesler-a-878674.html#ref=rss",
+"title": "FDP-Wahlerfolg: Jetzt hat es Rösler in der Hand" 
+},
+{
+ "url": "http://www.spiegel.de/wissenschaft/mensch/eu-flaggschiff-initiative-forscher-erhalten-milliardenfoerderung-a-880003.html#ref=rss",
+"title": "Flaggschiff-Initiative: EU gibt Milliarden für Wundermaterial und Hirnsimulation" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/gesellschaft/tokyo-hotel-story-nathalie-daoust-portraetiert-frauen-im-sm-hotel-a-877936.html#ref=rss",
+"title": "SM-Fotografin Daoust: \"Ich bin Voyeurin, die Kamera ist meine Ausrede\"" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/kino/dokumentarfilm-vergiss-mein-nicht-von-david-sieveking-a-880585.html#ref=rss",
+"title": "Alzheimer-Doku \"Vergiss mein nicht\": Abschied vom Ich" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/hitzfeld-bayerns-abwehr-stark-dank-dante-und-jupp-heynckes-a-880797.html#ref=rss",
+"title": "Hitzfeld über Bayern-Abwehr: \"Die Spieler haben Jupps defensive Denke verinnerlicht\"" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/fc-barcelona-lionel-messi-verlaengert-bis-2018-a-882090.html#ref=rss",
+"title": "FC Barcelona: Messi unterschreibt Vertrag bis 2018" 
+},
+{
+ "url": "http://www.spiegel.de/wissenschaft/natur/bakterien-im-eis-der-antarktis-entdeckt-a-882032.html#ref=rss",
+"title": "Lake Whillans: Leben unter dem ewigen Eis der Antarktis entdeckt " 
+},
+{
+ "url": "http://www.spiegel.de/gesundheit/ernaehrung/sport-mit-guter-leistung-dank-rohkost-profi-erklaert-ernaehrungskonzept-a-882002.html#ref=rss",
+"title": "Achilles' Ferse: Kalte Küche, heißer Reifen" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/musik/amtlich-helloween-saxon-flight-of-sleipnir-jess-and-the-ancient-ones-a-882029.html#ref=rss",
+"title": "Amtlich: Die wichtigsten Metal-Alben des Monats" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/gesellschaft/perlentaucher-heute-in-den-feuilletons-a-882375.html#ref=rss",
+"title": "Heute in den Feuilletons: \"Nur Befindlichkeitsschrott\"" 
+},
+{
+ "url": "http://www.spiegel.de/sport/wintersport/ski-wm-in-schladming-ted-ligety-gewinnt-kombination-der-maenner-a-882618.html#ref=rss",
+"title": "Ski-WM in Schladming: Ted Ligety gewinnt Super-Kombination" 
+},
+{
+ "url": "http://www.spiegel.de/sport/wintersport/ski-wm-in-schladming-ted-ligety-gewinnt-kombination-der-maenner-a-882618.html#ref=rss",
+"title": "Ski-WM in Schladming: Ligety gewinnt Super-Kombination" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/kino/berlinale-jane-campion-zeigt-miniserie-top-of-the-lake-a-882803.html#ref=rss",
+"title": "Krimi-Serie \"Top of the Lake\": Verrückte Frauen übernehmen das Dorf" 
+},
+{
+ "url": "http://www.spiegel.de/politik/deutschland/wirbel-um-angeblichen-fdp-anruf-bei-infratest-dimap-a-883337.html#ref=rss",
+"title": "Manipulations-Gerücht: Wirbel um angeblichen FDP-Anruf bei Umfrageinstitut " 
+},
+{
+ "url": "http://www.spiegel.de/kultur/tv/esc-vorentscheid-cascada-tritt-fuer-deutschland-an-a-883520.html#ref=rss",
+"title": "ESC-Vorentscheid: Cascada tritt für Deutschland an" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/tv/unser-song-fuer-malmoe-cascada-gewinnt-esc-vorentscheid-a-883529.html#ref=rss",
+"title": "\"Unser Song für Malmö\": Marschmusik bleibt Trumpf" 
+},
+{
+ "url": "http://www.spiegel.de/reise/fernweh/die-schoensten-roadtrips-karakorum-highway-17-mile-drive-und-co-a-883667.html#ref=rss",
+"title": "Lesertipps für Roadtrips: Immer dem Kühlergrill nach" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/fa-cup-arsenal-scheitert-im-achtelfinale-a-883854.html#ref=rss",
+"title": "Aus im FA-Cup: Arsenal verliert Champions-League-Generalprobe" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/borussia-dortmund-siegt-gegen-frankfurt-dank-reus-und-trotz-schieber-a-883886.html#ref=rss",
+"title": "BVB-Sieg gegen Frankfurt: Dortmund braucht keinen Stürmer" 
+},
+{
+ "url": "http://www.spiegel.de/sport/formel1/formel-1-williams-praesentiert-neuen-rennwagen-a-884187.html#ref=rss",
+"title": "Formel 1: Williams präsentiert neuen Rennwagen" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/champions-league-der-fc-barcelona-verliert-beim-ac-mailand-a-884703.html#ref=rss",
+"title": "Niederlage in Mailand: Barça verzweifelt am Beton" 
+},
+{
+ "url": "http://www.spiegel.de/politik/ausland/prozess-in-zypern-die-hisbollah-soll-hinter-anschlag-versuch-stecken-a-884837.html#ref=rss",
+"title": "Hisbollah-Prozess in Zypern: Schattenkrieg zwischen Israel und Iran" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/eintracht-frankfurts-trainer-armin-veh-ueber-seine-vertragsverlaengerung-a-891061.html#ref=rss",
+"title": "Eintracht-Coach Veh: \"Wir dürfen mehr ausgeben als ursprünglich geplant\"" 
+},
+{
+ "url": "http://www.spiegel.de/politik/deutschland/gruene-kritik-an-baden-wuerttembergs-ministerpraesident-kretschmann-a-891238.html#ref=rss",
+"title": "Wahlkampftaktik: Grüne rebellieren gegen Kretschmanns S-21-Kurs" 
+},
+{
+ "url": "http://www.spiegel.de/politik/ausland/in-italiens-regierungskrise-versagt-die-gesamte-politische-klasse-a-891861.html#ref=rss",
+"title": "Regierungskrise in Rom: Zehn Weise sollen Italiens Blockade lösen" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/europa-league-basel-gewinnt-in-tottenham-a-892637.html#ref=rss",
+"title": "Remis in Tottenham: Basel träumt vom nächsten Europapokal-Coup" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/champions-league-dortmund-bvb-feiert-fussball-wunder-a-893457.html#ref=rss",
+"title": "Sieg in der Nachspielzeit: Dortmund feiert Fußball-Wunder" 
+},
+{
+ "url": "http://www.spiegel.de/kultur/gesellschaft/ex-stern-reporter-gerd-heidemann-fordert-hitler-tagebuecher-zurueck-a-893403.html#ref=rss",
+"title": "30 Jahre nach Fälscherskandal: Ex-\"Stern\"-Reporter will Hitler-Tagebücher zurück" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/champions-league-bayern-steht-nach-sieg-gegen-turin-im-halbfinale-a-893665.html#ref=rss",
+"title": "CL-Sieg in Turin: Mandzukic köpft Bayern ins Halbfinale" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article112732112/Die-grosse-Angst-vor-der-Vorverlegung-des-Todes.html",
+"title": "Organspenden: Die große Angst vor der Vorverlegung des Todes" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article112929046/Die-Roesler-Sensation-FDP-ueberrascht-sich-selbst.html",
+"title": "Niedersachsen-Wahl: Die Rösler-Sensation – FDP überrascht sich selbst" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113249435/Bruederle-sagt-nichts-Himmelreich-fragt-nichts.html",
+"title": "FDP-Pressefrühstück: Brüderle sagt nichts, Himmelreich fragt nichts" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113451219/Claudia-Roths-High-Five-mit-Irans-Botschafter.html",
+"title": "Abgeklatscht: Claudia Roths \"High Five\" mit Irans Botschafter" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113588034/Maenner-kommen-Maenner-gehen-Merkel-bleibt.html",
+"title": "Benedikt-Rücktritt: Männer kommen, Männer gehen. Merkel bleibt" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113588352/Europa-ist-schon-laengst-nicht-mehr-Papst.html",
+"title": "Katholische Kirche: Europa ist schon längst nicht mehr Papst" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113620759/Marco-Rubio-und-der-verhaengnisvolle-Schluck-Wasser.html",
+"title": "#watergate: Marco Rubio und der verhängnisvolle Schluck Wasser" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113675002/Die-Ehe-ist-eine-enorme-Anstrengung.html",
+"title": "Präses Schneider: \"Die Ehe ist eine enorme Anstrengung\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113683769/Wulff-reist-zum-Emir-Glaeseker-sondiert-den-Marktwert.html",
+"title": "Ein Jahr danach: Wulff reist zum Emir, Glaeseker sondiert den Marktwert" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113684342/Gysi-gibt-jetzt-ein-Stueck-der-Wahrheit-preis.html",
+"title": "Stasi-Verdacht: Gysi gibt jetzt ein Stück der Wahrheit preis" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113697979/Kaum-vorstellbar-dass-der-neue-Papst-Europaeer-ist.html",
+"title": "Lord Weidenfeld: \"Kaum vorstellbar, dass der neue Papst Europäer ist\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article113683769/Wulff-reist-zum-Emir-Glaeseker-sondiert-Marktwert.html",
+"title": "Ein Jahr danach: Wulff reist zum Emir, Glaeseker sondiert Marktwert" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113904959/Bersani-Partei-erklaert-Mitte-links-zum-Wahlsieger.html",
+"title": "Wahl in Italien: Bersani-Partei erklärt Mitte-links zum Wahlsieger" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113888756/Italien-unregierbar-Neuwahlen-unvermeidlich.html",
+"title": "Minutenprotkoll: Italien unregierbar – \"Neuwahlen unvermeidlich\"" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113904959/Bersani-gewinnt-Senat-und-Abgeordnetenhaus.html",
+"title": "Wahl in Italien: Bersani gewinnt Senat und Abgeordnetenhaus" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article113904728/Der-Wahl-Tsunami-des-italienischen-Politik-Clowns.html",
+"title": "Beppe Grillo: Der Wahl-Tsunami des italienischen Politik-Clowns" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article114060654/Erdogan-manoeviert-sich-mit-Antizionismus-ins-Aus.html",
+"title": "Türkischer Premier: Erdogan manöviert sich mit Antizionismus ins Aus" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article114315624/SPD-Sensation-CDU-verspielt-10-Punkte-Vorsprung.html",
+"title": "OB-Wahl in Wiesbaden: SPD-Sensation – CDU verspielt 10-Punkte-Vorsprung" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article115078282/Ukip-will-England-vor-Wahnsinn-aus-Bruessel-retten.html",
+"title": "Anti-Euro-Partei: Ukip will England vor Wahnsinn aus Brüssel retten" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article115290178/Der-Prozess-der-angeblich-alle-Tuerken-betrifft.html",
+"title": "NSU: Der Prozess, der angeblich alle Türken betrifft" 
+},
+{
+ "url": "http://www.faz.net/aktuell/sport/mehr-sport/beachvolleyball-olympiasieger-reckermann-beendet-karriere-12020367.html",
+"title": "Beachvolleyball: Olympiasieger Reckermann beendet Karriere" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/kino/video-filmkritiken/video-filmkritik-django-unchained-es-war-einmal-in-amerika-12026049.html",
+"title": "Video-Filmkritik: „Django Unchained“" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/kunst/george-bellows-in-new-york-die-kunst-die-aus-der-zeitung-kam-12026063.html",
+"title": "George Bellows in New York: Die Kunst, die aus der Zeitung kam" 
+},
+{
+ "url": "http://www.faz.net/aktuell/sport/fussball/bundesliga/mainz-05-hoffen-auf-den-unberechenbaren-12046369.html",
+"title": "Mainz 05: Hoffen auf den Unberechenbaren" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/buecher/autoren/indien-streitet-um-rushdie-zwischen-willkuer-und-kalkuel-12054943.html",
+"title": "Indien streitet um Rushdie: Zwischen Willkür und Kalkül" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/inland/wahl-in-niedersachsen-2013/niedersachsen-burg-ohne-toechter-12058213.html",
+"title": "Niedersachsen: Burg ohne Töchter" 
+},
+{
+ "url": "http://www.faz.net/aktuell/sport/fussball/bundesliga/christian-seifert-im-gespraech-die-uefa-kann-massiv-schaden-nehmen-12057334.html",
+"title": "DFL-Chef Seifert: „Die Uefa kann massiv Schaden nehmen“" 
+},
+{
+ "url": "http://www.faz.net/aktuell/gesellschaft/eurovision-song-contest/anke-engelke-im-gespraech-protestwahlen-spielen-eine-grosse-rolle-12070115.html",
+"title": "Eurovision Song Contest: „Protestwahlen spielen eine große Rolle“" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/medien/faz-net-fruehkritik/faz-net-fruehkritik-jauch-das-leben-danach-12084532.html",
+"title": "FAZ.NET-Frühkritik: Das Leben danach" 
+},
+{
+ "url": "http://blogs.faz.net/digital/2013/02/22/zum-fall-oscar-pistorius-125/",
+"title": "Blogs | Digital/Pausen: Zum Fall „Oscar Pistorius“" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/bilder-und-zeiten/fotobuch-der-woche-ein-blick-ins-antlitz-des-teufels-12089103.html",
+"title": "Fotobuch der Woche: 101 Tragödien des Enrique Metinides" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/debatten/anti-emanzipatorische-argumente-steinzeit-fuer-immer-12125657.html",
+"title": "Männer sind Jäger, Frauen Sammler? Was für ein Unsinn!" 
+},
+{
+ "url": "http://www.faz.net/aktuell/gesellschaft/menschen/herzblatt-geschichten/herzblatt-geschichten-tiger-hase-wildschwein-12133059.html",
+"title": "Von Tiger, Hase und Wildschwein: die Herzblatt-Geschichten" 
+},
+{
+ "url": "http://www.spiegel.de/wissenschaft/natur/a-896582.html#ref=rss",
+"title": "Knochensplitter: Sensationen findet man in Schränken" 
+},
+{
+ "url": "http://www.spiegel.de/wissenschaft/natur/a-896582.html#ref=rss",
+"title": "Knochensplitter: Sensationen findet man in Schränken" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/buecher/amanda-knox-schreibt-ein-buch-maedchen-tod-und-teufel-12165746.html",
+"title": "Mädchen, Tod und Teufel: Amanda Knox hat ein Buch geschrieben" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article115924950/Wie-Israel-Assads-geheimen-Atomreaktor-vernichtete.html",
+"title": "Syrien: Wie Israel Assads geheimen Atomreaktor vernichtete" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/manchester-united-das-ist-trainer-legende-alex-ferguson-a-898729.html#ref=rss",
+"title": "Manchester Uniteds Alex Ferguson: Der größte Vereinstrainer der Welt" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/ohio-das-gefaengnis-im-wohnviertel-12177042.html",
+"title": "Ohio: Das Gefängnis im Wohnviertel" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116044141/Bengasi-Als-alle-US-Spezialeinheiten-versagten.html",
+"title": "Terroranschlag: Bengasi – Als alle US-Spezialeinheiten versagten " 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/englischer-fussball-pokal-wigan-gewinnt-gegen-manchester-city-a-899292.html#ref=rss",
+"title": "FA Cup: Wigan feiert Sensationssieg gegen Manchester City" 
+},
+{
+ "url": "http://www.spiegel.de/netzwelt/web/google-i-o-die-neuheiten-von-der-entwicklerkonferenz-a-900127.html#ref=rss",
+"title": "Präsentation in San Francisco: Google verliert sich in Details" 
+},
+{
+ "url": "http://www.spiegel.de/wissenschaft/natur/nasa-satellitenbild-langer-riss-im-eis-der-arktis-vor-groenland-a-900103.html#ref=rss",
+"title": "Satellitenbilder: 1300-Kilometer-Riss spaltet Arktis-Eis" 
+},
+{
+ "url": "http://www.faz.net/aktuell/gesellschaft/zweiter-weltkrieg-und-wieder-kommen-die-flugzeuge-12185229.html",
+"title": "Zweiter Weltkrieg: Und wieder kommen die Flugzeuge" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article116282623/Asylbewerber-sollen-leichter-an-Arbeit-kommen.html",
+"title": "Bundesregierung: Asylbewerber sollen leichter an Arbeit kommen" 
+},
+{
+ "url": "http://www.spiegel.de/sport/wintersport/eishockey-wm-schweden-feiert-finaleinzug-a-900692.html#ref=rss",
+"title": "Eishockey-WM: Schweiz und Schweden feiern Finaleinzug " 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/hoffenheim-steigt-ab-schalke-in-champions-league-bayern-verliert-a-900680.html#ref=rss",
+"title": "Bundesliga-Finale: Hoffenheim feiert Fußball-Wunder, Düsseldorf steigt ab" 
+},
+{
+ "url": "http://www.faz.net/aktuell/sport/mehr-sport/eishockey-wm-schweiz-schockt-stars-aus-amerika-12187911.html",
+"title": "Eishockey-WM: Schweiz schockt Stars aus Amerika" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article116325394/Greifen-Sie-da-durch-sagen-mir-die-Menschen.html",
+"title": "Horst Seehofer: \"Greifen Sie da durch, sagen mir die Menschen\"" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/museumsarchitektur-neue-kisten-kriegt-das-land-12186584.html",
+"title": "Museumsarchitektur: Neue Kisten kriegt das Land" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/philipp-lahms-fazit-zur-bundesliga-rekordsaison-des-fc-bayern-a-901104.html#ref=rss",
+"title": "Lahm über Bayerns Saison der Rekorde: \"Mitleid hat im Fußball nichts zu suchen\"" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article116428929/Sensationelle-Einigung-von-Kirche-und-Gewerkschaft.html",
+"title": "Arbeitsrecht: Sensationelle Einigung von Kirche und Gewerkschaft" 
+},
+{
+ "url": "http://blogs.faz.net/digital/2013/05/24/was-auf-dem-spiel-steht-in-wembley-268/",
+"title": "Blog | Digital/Pausen: Was auf dem Spiel steht in Wembley" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/bundesliga-relegation-die-highlights-des-wettbewerbs-a-902061.html#ref=rss",
+"title": "Geschichte der Bundesliga-Relegation: Raketen-Reus und Fan-Raketen" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/buecher/autoren/neues-buechnerportraet-der-rote-korsar-von-darmstadt-12196936.html",
+"title": "Ein neues Büchnerporträt? Der rote Korsar von Darmstadt" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/pokalfinale-bayern-jupp-heynckes-will-nie-wieder-bierdusche-in-deutschland-a-903276.html#ref=rss",
+"title": "Bayern-Pokalsieg: \"Nie wieder Bierdusche in einem deutschen Stadion\"" 
+},
+{
+ "url": "http://www.spiegel.de/sport/fussball/beim-pokal-finalist-vfb-stuttgart-herrscht-unruhe-a-903004.html#ref=rss",
+"title": "Pokal-Finale gegen Bayern: Stuttgarter Trauerspiel" 
+},
+{
+ "url": "http://www.spiegel.de/sport/sonst/hsv-hamburg-gewinnt-sensationell-die-champions-league-a-903342.html#ref=rss",
+"title": "Handball: HSV gewinnt sensationell die Champions League" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article116830851/Erdogan-laesst-Twitter-Aktivisten-verhaften.html",
+"title": "Türkei: Erdogan lässt Twitter-Aktivisten verhaften" 
+},
+{
+ "url": "http://www.faz.net/aktuell/sport/formel-1/formel-1-qualifying-beste-aussicht-in-montreal-fuer-vettel-12214588.html",
+"title": "Formel 1: Vettel startet in Montreal vorne" 
+},
+{
+ "url": "http://www.welt.de/politik/deutschland/article117015953/Die-Piraten-beissen-eines-ihrer-groessten-Talente-weg.html",
+"title": "Christopher Lauer : Die Piraten beißen eines ihrer größten Talente weg" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117070270/Sensationelle-Allianz-der-amerikanischen-Erzfeinde.html",
+"title": "Fall Edward Snowden: Sensationelle Allianz der amerikanischen Erzfeinde" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117110973/Vom-islamischen-Robin-Hood-zum-Krisenfaktor.html",
+"title": "Mahmud Ahmadinedschad: Vom islamischen Robin Hood zum Krisenfaktor" 
+},
+{
+ "url": "http://www.welt.de/reise/deutschland/article117139523/Kanzlerduell-Wer-hat-den-schoeneren-Wahlkreis.html",
+"title": "Merkel vs. Steinbrück: Kanzlerduell – Wer hat den schöneren Wahlkreis?" 
+},
+{
+ "url": "http://www.welt.de/politik/ausland/article117219863/Still-stehen-schweigen-und-sich-verhaften-lassen.html",
+"title": "Protest in Istanbul: Still stehen, schweigen - und sich verhaften lassen" 
+},
+{
+ "url": "http://www.faz.net/aktuell/politik/inland/100-tage-papst-franziskus-wild-und-gefaehrlich-12222865.html",
+"title": "100 Tage Papst Franziskus: Wild und gefährlich" 
+},
+{
+ "url": "http://www.faz.net/aktuell/feuilleton/medien/polen-debattiert-unsere-muetter-unsere-vaeter-sie-schonen-sich-nicht-12239597.html",
+"title": "Sie schonen sich nicht: Polen debattiert „Unsere Mütter, unsere Väter“" 
+} 
+] 
+},
+{
+ "x": 0.61693,
+"y": 0.50282,
+"no_docs":     29,
+"words": [
+ {
+ "prob": 8.9662e-06,
+"word": "hospital" 
+},
+{
+ "prob": 5.5031e-05,
+"word": "people" 
+},
+{
+ "prob": 8.9662e-06,
+"word": "found" 
+},
+{
+ "prob": 8.9662e-06,
+"word": "sleep" 
+},
+{
+ "prob": 8.9662e-06,
+"word": "gmt" 
+},
+{
+ "prob": 8.9662e-06,
+"word": "brady" 
+},
+{
+ "prob": 8.9662e-06,
+"word": "brain" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/283b521b/l/0L0Sindependent0O0Clife0Estyle0Chealth0Eand0Efamilies0Cfeatures0Cthe0Ealkaline0Ediet0Evs0Ethe0E520Ediet0E8480A6170Bhtml/story01.htm",
+"title": "The Alkaline diet vs the 5:2 diet" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/02/23/the-dream-sailors-training-people-in-lucid-dreaming-opens-way-for-new-therapies/",
+"title": "‘The dream sailors’: Training people in lucid dreaming opens way for new therapies" 
+},
+{
+ "url": "http://www.guardian.co.uk/science/2013/feb/17/paralysed-breakthrough-control-artificial-limbs",
+"title": "Paralysed people could get movement back through thought control" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/P7WrdqjU0qw/story01.htm",
+"title": "Soldier gets double arm transplant" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22409657?source=rss",
+"title": "Marines studying mindfulness-based training" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22470920/soldier-talks-about-his-new-arms-after-transplant?source=rss",
+"title": "Soldier with new arms determined to be independent" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2317095/Carpet-cleaner-left-screaming-agony-testicles-burned-99p-shower-gel.html",
+"title": "Carpet cleaner left screaming in agony after his testicles were burned by 99p shower gel" 
+},
+{
+ "url": "http://www.dailymail.co.uk/health/article-2317035/Woman-suffered-horrific-burns-freak-accident-the-world-injuries-treated-BOTOX.html",
+"title": "Woman who suffered horrific burns in freak accident is the first in the world to have her injuries treated with BOTOX" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/7AaSb6mvMGg/story01.htm",
+"title": "Most ground turkey contaminated with fecal bacteria: report" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/6DY4K2TKX3A/story01.htm",
+"title": "Saving the hospital that rescued me" 
+},
+{
+ "url": "http://www.dailymail.co.uk/sciencetech/article-2324814/Dogs-experience-runners-high-brains-produce-chemicals-cannabis-claims-study.html",
+"title": "Dogs experience 'runner's high' because their brains produce the same chemicals found in cannabis, claims study" 
+},
+{
+ "url": "http://www.dailymail.co.uk/sciencetech/article-2325500/Forget-coffee-caffeine-TOOTHBRUSH.html",
+"title": "Forget coffee, now you can get caffeine in your TOOTHBRUSH" 
+},
+{
+ "url": "http://www.dailymail.co.uk/femail/article-2322636/Last-Chance-Salon-Man-regretted-getting-bulldog-inked-chest-left-terrible-scarring-trying-removed.html",
+"title": "Last Chance Salon: Man who regretted getting bulldog inked on his chest is left with terrible scarring after trying to have it removed" 
+},
+{
+ "url": "http://www.chron.com/news/health/article/Did-low-sodium-diet-trigger-leg-cramps-4525737.php",
+"title": "Did low-sodium diet trigger leg cramps?" 
+},
+{
+ "url": "http://www.dailymail.co.uk/health/article-2329528/Female-Viagra-stimulates-body-AND-mind-market-years.html",
+"title": "Female Viagra that stimulates the body AND the mind could be on the market 'within three years'" 
+},
+{
+ "url": "http://www.dailymail.co.uk/health/article-2333336/Could-artificial-sweetener-CAUSE-diabetes-Splenda-modifies-way-body-handles-sugar-increasing-insulin-production-20.html",
+"title": "Could artificial sweetener CAUSE diabetes? Splenda 'modifies way the body handles sugar', increasing insulin production by 20%" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2333843/France-ban-electronic-cigarettes-public-places-subject-tight-rules-tobacco.html",
+"title": "France to ban electronic cigarettes from all public places and subject them to the same tight rules as tobacco" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2cbd7954/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cwas0Epablo0Eneruda0Ekilled0Eby0Epinochet0E86413520Bhtml/story01.htm",
+"title": "Was Pablo Neruda killed by Pinochet?" 
+},
+{
+ "url": "http://www.dailymail.co.uk/femail/article-2337095/No-food-just-water-sunlight-Meet-65-year-old-woman-eaten-FIVE-WEEKS-extreme-lifestyle-experiment.html",
+"title": "No food, just water and sunlight: Meet the 65-year-old woman who hasn't eaten in FIVE WEEKS in extreme lifestyle experiment" 
+},
+{
+ "url": "http://www.dailymail.co.uk/health/article-2342429/Eu-urged-act-hair-dyes-allergy-deaths-Warnings-packaging-explicit.html",
+"title": "Eu urged to act on hair dyes after allergy deaths: Warnings on packaging must be made explicit" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2343293/In-country-died-died-Dutch-nurses-callous-reaction-unresponsive-patient-81-colleague-failed-help.html",
+"title": "'In my country, if they have died, then they have died': Dutch nurse's callous reaction to unresponsive patient, 81, who she and colleague failed to help" 
+},
+{
+ "url": "http://www.guardian.co.uk/society/2013/jun/19/panorama-care-home-investigation",
+"title": "Letters: Panorama's care home investigation" 
+},
+{
+ "url": "http://www.dailymail.co.uk/sciencetech/article-2345689/Girls-likely-sleep-university-smoke-dope-claims-study.html",
+"title": "Girls more likely to sleep around at university if they smoke dope, claims study" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2346498/The-secrets-friend-Moors-murderer-For-25-years-visiting-Britains-notorious-killer-Ian-Bradys-confidant--heir-reveals-all.html",
+"title": "The secrets of my friend the Moors murderer: For 25 years he has been visiting Britain's most notorious killer, and now Ian Brady's only confidant - and heir reveals all" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23526504/snoring-tiredness-are-signs-dangerous-sleep-apnea",
+"title": "Snoring, tiredness are signs of dangerous sleep apnea" 
+} 
+] 
+},
+{
+ "x": 0.80927,
+"y": 0.71255,
+"no_docs":     13,
+"words": [
+ {
+ "prob": 4.2161e-06,
+"word": "people" 
+},
+{
+ "prob": 0.00084683,
+"word": "time" 
+},
+{
+ "prob": 4.216e-06,
+"word": "year" 
+},
+{
+ "prob": 4.216e-06,
+"word": "back" 
+},
+{
+ "prob": 4.216e-06,
+"word": "life" 
+},
+{
+ "prob": 4.216e-06,
+"word": "years" 
+},
+{
+ "prob": 4.216e-06,
+"word": "family" 
+} 
+],
+"docs": [
+ {
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/283b5216/l/0L0Sindependent0O0Cnews0Cobituaries0Cpeggy0Eryan0Enoted0Eartist0Eand0Epicture0Erestorer0E8480A6270Bhtml/story01.htm",
+"title": "Peggy Ryan: Noted artist and picture restorer" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2857fa05/l/0L0Sindependent0O0Carts0Eentertainment0Cmusic0Cnews0Ci0Ewas0Eterrified0Ejonny0Ehallyday0Ereveals0Ehow0Ehe0Ewas0Eseduced0Eat0E170E0Eby0Ea0E44yearold0Eedith0Epiaf0E84859720Bhtml/story01.htm",
+"title": "'I was terrified': Jonny Hallyday reveals how he was seduced at 17 - by a 44-year-old Edith Piaf" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/289e1611/l/0L0Sindependent0O0Cnews0Cpeople0Cprofiles0Ci0Eintend0Eto0Edie0Ein0Ethe0Eharness0Echapman0Epincher0Eis0Estill0Eon0Ethe0Ehunt0Efor0Espooks0E84936980Bhtml/story01.htm",
+"title": "'I intend to die in the harness': Chapman Pincher is still on the hunt for spooks" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/28dc26bd/l/0L0Sindependent0O0Cnews0Cmedia0Ctv0Eradio0Cit0Ewas0Ecommon0Egossip0Ejimmy0Esavile0Eliked0Eyoung0Egirls0E850A77760Bhtml/story01.htm",
+"title": "'It was common gossip Jimmy Savile liked young girls'" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/jan/30/no-shame-in-suicide-no-glory-either",
+"title": "There's no shame in suicide. And there's no glory, either | Giles Fraser" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/feb/05/richard-scoliosis-me-twisted-spines",
+"title": "Richard III, scoliosis and me | Julie Myerson" 
+},
+{
+ "url": "http://www.guardian.co.uk/music/2013/feb/13/die-meistersinger-von-nurnberg",
+"title": "Die Meistersinger von Nürnberg – review" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/feb/15/freedom-doesnt-mean-let-it-all-hang-out",
+"title": "Freedom doesn't simply mean letting it all hang out | Simon Jenkins" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/feb/15/reeva-steenkamp-body-on-front-page",
+"title": "Reeva Steenkamp's corpse was in the morgue, her body was on the Sun's front page | Marina Hyde" 
+},
+{
+ "url": "http://www.guardian.co.uk/politics/2013/feb/15/eastleigh-election-fever-david-cameron",
+"title": "Eastleigh byelection fever bites as David Cameron visits B&Q" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/mar/30/richard-plantaganet-controversy-burial-place",
+"title": "Why Richard III's final resting place matters | Lucy Worsley" 
+},
+{
+ "url": "http://www.guardian.co.uk/theguardian/2013/mar/31/those-with-nothing-lose-more",
+"title": "Letters: Those with nothing lose a little more" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/AfB0WNd94sU/story01.htm",
+"title": "Joyous memories at Hadiya Pendleton funeral" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/hcKx-0OevIg/story01.htm",
+"title": "Michelle Obama attends funeral of Chicago girl killed by gun violence" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130407/OBITUARIES/304070342/1478/rss",
+"title": "Fashion designer Lilly Pulitzer dies at 81" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/pN1kNcNvm2c/story01.htm",
+"title": "Boston Marathon massacre reveals portraits in courage" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/BflshpKhhAw/story01.htm",
+"title": "Justin Reefer? Report says teen idol Bieber's a pot star" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/nEgwA5kdw6U/story01.htm",
+"title": "SEE: Woman holds her own heart in her hands" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/H1Ob0tiFMnM/story01.htm",
+"title": "Tim Cook and NASA’s ‘Mohawk Guy’ to attend SOTU" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/WpGfps4UmX0/story01.htm",
+"title": "Porn king Ron Jeremy out of hospital following heart surgery" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/8DVH6B9pYA4/story01.htm",
+"title": "'Jeopardy!' victor Leonard Cooper wins over New York, too" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/9-RNvwsUwCU/story01.htm",
+"title": "Why Sarai Sierra suspect ran for it" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/lQ3R4xjFPCs/story01.htm",
+"title": "Fashion designer Lilly Pulitzer dies at 81" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/pN1kNcNvm2c/story01.htm",
+"title": "Boston Marathon massacre reveals portraits in courage" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2b372a67/l/0L0Sindependent0O0Cnews0Cworld0Cmiddle0Eeast0Comar0Eborkan0Eal0Egala0Eis0Ethis0Ethe0Eman0Ewho0Eis0Etoo0Esexy0Efor0Esaudi0Earabia0E8590A10A40Bhtml/story01.htm",
+"title": "Omar Borkan Al Gala: Is this the man who is 'too sexy' for Saudi Arabia?" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/04/27/3368964/dozens-rappel-for-gildas-club.html",
+"title": "Dozens rappel for Gilda&#x2019;s Club charity event" 
+},
+{
+ "url": "http://www.guardian.co.uk/books/2013/may/04/mark-haddon-money-high-quality-rope",
+"title": "Mark Haddon: 'It's like getting money for high-quality old rope'" 
+},
+{
+ "url": "http://www.guardian.co.uk/uk/2013/may/03/stuart-hall-bbc-compensation-claims",
+"title": "Stuart Hall and BBC face compensation claims after sexual abuse case" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/Zacnccd9WaQ/Beast-Stuart-Hazell-jailed-for-a-minimum-of-38-years-after-brutal-murder-of-Tia-Sharp",
+"title": "&#039;Beast&#039; Stuart Hazell jailed for a minimum of 38 years after brutal murder of Tia Sharp " 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/17/masculinity-fathers-generation-better-men",
+"title": "Yes, the men of my father's generation were better at being men | Ian Jack" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2326320/Adorable-sea-lion-shows-concern-little-girl-trips.html",
+"title": "Adorable sea lion shows concern when little girl trips" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2326656/How-Jill-Dandos-death-convinced-know-crime-wrong-NICK-ROSS-tells-shocking-truth-murder-friend-real-cause-crime.html",
+"title": "'How Jill Dando's death convinced me everything you know about crime is wrong': NICK ROSS tells the shocking truth about the murder of his friend and the real cause of crime" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/ed1PcDSK7mc/story01.htm",
+"title": "Teen who wrote cancer hit dies" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2c5fc0fa/l/0L0Sindependent0O0Cnews0Cuk0Chome0Enews0Csuffragette0Eemily0Edavison0Ethe0Ewoman0Ewho0Ewould0Enot0Ebe0Esilenced0E86317910Bhtml/story01.htm",
+"title": "Suffragette Emily Davison: The woman who would not be silenced" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/oNszuajwEqs/story01.htm",
+"title": "Student wows crowds, YouTube while fighting for his school" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/26/guardian-coverage-of-woolwich-murder",
+"title": "Open door: The readers' editor on… the Guardian's coverage of the Woolwich murder" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2332281/Billy-goat-tough-Animal-goes-rampage-attacking-goes-near-Brazil.html",
+"title": "Billy goat tough: Animal goes on the rampage, attacking anyone who goes near it in Brazil" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/AfCwOQ4VL0g/story01.htm",
+"title": "Family of 11-year-old girl shot outside her Bedford-Stuyvesant home fears she will never walk again  " 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2335667/John-E-Holdens-hilarious-self-written-obituary-goes-viral.html",
+"title": "John E. Holden's hilarious self-written obituary goes viral" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/zBVbQjCVYEY/story01.htm",
+"title": "Woman shot near Calumet Heights elementary school" 
+},
+{
+ "url": "http://www.dailymail.co.uk/health/article-2337515/Father-seven-race-time-children-world--rare-condition-means-ALL-blind.html",
+"title": "Father-of-seven in a race against time to show his children the world - because rare condition means they could ALL go blind" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2338355/Olivia-Johnston-Wilder-shattered-falling-feels-legs-gets-stuck-toy-car.html",
+"title": "Olivia Johnston-Wilder who shattered back after falling over feels her legs again when she gets stuck in toy car" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2341781/Whitey-Bulger-The-tragic-life-gangsters-moll-Bulger-strangled-dismembered-knew-much.html",
+"title": "Whitey Bulger: The tragic life of a gangster's moll who Bulger 'strangled and dismembered because she knew too much'" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/i4TJmjYOz7g/story01.htm",
+"title": "Hitman testifies at James (Whitey) Bulger trial" 
+} 
+] 
+},
+{
+ "x": 0.42106,
+"y": 0.35502,
+"no_docs":     11,
+"words": [
+ {
+ "prob": 3.8433e-05,
+"word": "knox" 
+},
+{
+ "prob": 1.703e-05,
+"word": "amanda" 
+},
+{
+ "prob": 3.8462e-05,
+"word": "hero" 
+},
+{
+ "prob": 1.703e-05,
+"word": "castro" 
+},
+{
+ "prob": 1.703e-05,
+"word": "italy" 
+},
+{
+ "prob": 1.703e-05,
+"word": "sollecito" 
+},
+{
+ "prob": 1.703e-05,
+"word": "mom" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.guardian.co.uk/world/2013/apr/26/amanda-knox-memoir-published",
+"title": "Amanda Knox reiterates innocence as memoir is published" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/10/rescue-of-kidnapped-cleveland-women-a-study-in-the-nature-of-heroism/",
+"title": "Holding out for a hero: Rescue of kidnapped Cleveland women a study in the nature of heroism" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/y4De3uQsaMQ/story01.htm",
+"title": "WATCH: 'Tan Mom' Patricia Krentcil releases music video" 
+} 
+] 
+},
+{
+ "x": 0.34817,
+"y": 0.3862,
+"no_docs": null,
+"words": [
+ {
+ "prob": 6.757e-05,
+"word": "berlusconi" 
+},
+{
+ "prob": 1.4219e-05,
+"word": "prozent" 
+},
+{
+ "prob": 1.422e-05,
+"word": "mitte" 
+},
+{
+ "prob": 0.00068685,
+"word": "ndnis" 
+},
+{
+ "prob": 1.4228e-05,
+"word": "bersani" 
+},
+{
+ "prob": 1.4219e-05,
+"word": "links" 
+},
+{
+ "prob": 1.4219e-05,
+"word": "grillo" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.65639,
+"y": 0.5713,
+"no_docs": null,
+"words": [
+ {
+ "prob": 7.5885e-06,
+"word": "game" 
+},
+{
+ "prob": 2.6757e-05,
+"word": "time" 
+},
+{
+ "prob": 7.5885e-06,
+"word": "year" 
+},
+{
+ "prob": 7.5885e-06,
+"word": "team" 
+},
+{
+ "prob": 7.5885e-06,
+"word": "season" 
+},
+{
+ "prob": 7.5885e-06,
+"word": "van" 
+},
+{
+ "prob": 7.5885e-06,
+"word": "good" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.guardian.co.uk/football/2013/feb/12/cristiano-ronaldo-real-madrid-manchester-united",
+"title": "Real Madrid tie is 'acid test' for Manchester United, says Ferguson" 
+},
+{
+ "url": "http://www.guardian.co.uk/football/blog/2013/feb/12/david-de-gea-manchester-united-real-madrid",
+"title": "Manchester United's David de Gea home to prepare for Bernabéu audition" 
+},
+{
+ "url": "http://www.guardian.co.uk/football/2013/feb/12/cristiano-ronaldo-real-madrid-manchester-united",
+"title": "Real Madrid v Manchester United is 'acid test', says Ferguson" 
+},
+{
+ "url": "http://www.guardian.co.uk/sport/2013/feb/19/swimming-australia-review-steve-parry",
+"title": "Scathing Australia swimming review would not occur in UK – Steve Parry" 
+},
+{
+ "url": "http://www.guardian.co.uk/football/blog/2013/feb/25/michael-laudrup-swansea-city",
+"title": "Even if Michael Laudrup did go, it would not affect Swansea's capital | Andy Hunter" 
+},
+{
+ "url": "http://www.guardian.co.uk/football/2013/apr/09/barcelona-lionel-messi-psg-david-beckham",
+"title": "Barcelona hold Lionel Messi in reserve as PSG look to David Beckham again" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/4hNndooxFVk/story01.htm",
+"title": "Prep basketball star Aquille Carr still harbors pro dreams despite his complicated present" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130104/SPORTS0101/301040462/1478/rss",
+"title": "New York Jets coach Rex Ryan's tattoo inflames QB controversy" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130112/SPORTS0101/301120410/1478/rss",
+"title": "Colin Kaepernick does it all as 49ers pound Packers" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/och_MTbNYpE/story01.htm",
+"title": "Knicks fans’ ovations bring cheer to Amar’e" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/JdIaq5eh0GQ/story01.htm",
+"title": "Tough break: College kid who scored 138 breaks wrist" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/HzPI94zHJNg/story01.htm",
+"title": "Knicks bowl over Pistons as Tyson loses Melo bet" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/Dqlq_4VqnyM/story01.htm",
+"title": "A year later, Jeremy's life far less Linsane" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/DxB86tSrHBg/story01.htm",
+"title": "No. 1 Hoosiers handle their business at Michigan St." 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/wjocgYf1ZUM/story01.htm",
+"title": "Lin says his ethnicity was a hoops 'barrier'" 
+},
+{
+ "url": "http://www.denverpost.com/csu/ci_22411279/csu-rams-defeat-unlv-stretch-home-winning-streak?source=rss",
+"title": "CSU Rams defeat UNLV to stretch home winning streak to 24" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_22414393?source=rss",
+"title": "49ers head to Super Bowl, beating Falcons 28-24" 
+},
+{
+ "url": "http://www.denverpost.com/preps/ci_22765294/rosters-announced-prep-basketballs-show?source=rss",
+"title": "Rosters announced for prep basketball's The Show" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130503/SPORTS0104/305030446/1478/rss",
+"title": "Alex Avila's homer shakes slump, rallies Tigers to win" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2b84935d/l/0L0Sindependent0O0Csport0Cfootball0Cfootball0Eleague0Chull0Ecity0E20Ecardiff0Ecity0E20Ematch0Ereport0Etigers0Etriumphant0Eafter0Ea0Eday0Eof0Eups0Eand0Estaying0Edowns0E860A41520Bhtml/story01.htm",
+"title": "Hull City 2 Cardiff City 2 match report: Tigers triumphant after a day of ups and staying downs" 
+},
+{
+ "url": "http://www.guardian.co.uk/sport/2013/may/09/robbie-grabarz-diamond-league-doha",
+"title": "Robbie Grabarz determined to enjoy himself at Diamond League opener" 
+},
+{
+ "url": "http://www.guardian.co.uk/commentisfree/2013/may/09/alex-ferguson-hairdryer-treatment-politics",
+"title": "Alex Ferguson's hairdryer treatment won't cut it in politics | Simon Jenkins" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/daily-express-news-showbiz/~3/gdaxqoOA4YM/Chelsea-win-Europa-League-after-Branislav-Ivanovic-scores-dramatic-injury-time-winner",
+"title": "Chelsea win Europa League after Branislav Ivanovic scores dramatic injury-time winner" 
+},
+{
+ "url": "http://www.guardian.co.uk/sport/blog/2013/may/16/john-smit-true-legend-south-africa",
+"title": "John Smit has proved himself a true legend for South Africa | Shaun Edwards" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130530/SPORTS0101/305300370/1478/rss",
+"title": "David Akers, next in line after Lions legend, grateful for NFL career help" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2ce48f10/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Ccan0Eyoungest0Emanson0Efamily0Edisciple0Eleslie0Evan0Ehouten0Ego0Efree0Eafter0E440Eyears0Ein0Eprison0E86464730Bhtml/story01.htm",
+"title": "Can youngest ‘Manson Family’ disciple, Leslie Van Houten, go free after 44 years in prison?" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2ce3dd98/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Ccan0Eyoungest0Edisciple0Eleslie0Evan0Ehouten0Ebe0Efirst0Eof0Ethe0Emanson0Efamily0Eto0Ego0Efree0E86464730Bhtml/story01.htm",
+"title": "Can youngest disciple, Leslie Van Houten, be first of the ‘Manson Family’ to go free?" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2ce38fa1/l/0L0Sindependent0O0Cnews0Cworld0Camericas0Cmanson0Efamily0Emember0Eleslie0Evan0Ehouten0Efaces0Eparole0Eboard0Efor0Ethe0E20Ath0Etime0E86464730Bhtml/story01.htm",
+"title": "Manson Family member Leslie Van Houten faces parole board for the 20th time" 
+},
+{
+ "url": "http://feedproxy.google.com/~r/baltimoresun/news/rss2/~3/hTJdcSEgMGg/story01.htm",
+"title": "After delay, Orioles beat Angels, 4-3" 
+} 
+] 
+},
+{
+ "x": 0.34591,
+"y": 0.36317,
+"no_docs": null,
+"words": [
+ {
+ "prob": 1.508e-05,
+"word": "bellows" 
+},
+{
+ "prob": 3.363e-05,
+"word": "rkische" 
+},
+{
+ "prob": 1.508e-05,
+"word": "rkei" 
+},
+{
+ "prob": 1.508e-05,
+"word": "rkischen" 
+},
+{
+ "prob": 3.477e-05,
+"word": "erdogan" 
+},
+{
+ "prob": 5.2837e-05,
+"word": "hisbollah" 
+},
+{
+ "prob": 1.508e-05,
+"word": "iranischen" 
+} 
+],
+"docs": [
+ {
+ "url": null,
+"title": null 
+},
+{
+ "url": "",
+"title": "" 
+} 
+] 
+},
+{
+ "x": 0.61241,
+"y": 0.50139,
+"no_docs": null,
+"words": [
+ {
+ "prob": 1.0515e-05,
+"word": "ford" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "allegations" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "drug" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "public" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "vatican" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "interview" 
+},
+{
+ "prob": 1.0515e-05,
+"word": "mayor" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.guardian.co.uk/football/blog/2013/feb/04/europol-match-fixing-football",
+"title": "Europol's match-fixing bombshell leaves football authorities in the dark | David Conn" 
+},
+{
+ "url": "http://www.guardian.co.uk/football/2013/feb/05/football-law-enforcers-match-fixing",
+"title": "Football bodies want co-operation with law enforcers on match-fixing" 
+},
+{
+ "url": "http://www.guardian.co.uk/science/2013/feb/05/princes-in-tower-staying-under",
+"title": "Why the princes in the tower are staying six feet under" 
+},
+{
+ "url": "http://www.guardian.co.uk/media/2013/feb/24/mark-williams-thomas-jimmy-savile",
+"title": "Mark Williams-Thomas: I ran the Savile film like a criminal investigation" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130130/SPORTS0203/301300411/1478/rss",
+"title": "Dr. Phil: Manti Te'o 'absolutely' had no role in setting up hoax" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130223/LIFESTYLE04/302230369/1478/rss",
+"title": "Vatican blasts 'false' pre-conclave reporting" 
+},
+{
+ "url": "http://feeds.nydailynews.com/~r/NydnRss/~3/DjBdQOHuhXc/story01.htm",
+"title": "Vatican: Pope didn't resign over sex scandal" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/02/22/3248011/pope-clears-decks-with-appointments.html",
+"title": "Vatican blasts 'false' pre-conclave reporting" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/02/be-careful/",
+"title": "‘Be careful’: Parti Quebecois urges corruption inquiry to show prudence after this week’s ‘sensational’ testimony" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/25/toronto-councillor-doug-ford-denies-newspaper-report-that-he-sold-drugs-during-high-school/",
+"title": "Toronto Councillor Doug Ford denies newspaper report that he sold drugs in high school" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/26/toronto-mayor-rob-ford-and-brother-doug-ford-to-return-to-radio-show-amid-drug-allegations/",
+"title": "Toronto Mayor Rob Ford and brother Doug Ford to return to radio show amid drug allegations" 
+},
+{
+ "url": "http://news.nationalpost.com/2013/05/25/toronto-councillor-doug-ford-denies-newspaper-report-that-he-sold-drugs-during-high-school/",
+"title": "Toronto Councillor Doug Ford denies newspaper report that he sold drugs in the 80s" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2c875281/l/0L0Sindependent0O0Cnews0Cuk0Chome0Enews0Ccoroner0Eit0Eseems0Enothing0Ehas0Ebeen0Elearned0Efrom0Eleveson0Einquiry0Einto0Esex0Echange0Eteachers0Esuicide0E0Ecritical0Eof0Edaily0Email0Eand0Erichard0Elittlejohn0E86352450Bhtml/story01.htm",
+"title": "Coroner: ‘It seems nothing has been learned from Leveson...’: Inquiry into sex change teacher’s suicide critical of ‘Daily Mail’ and Richard Littlejohn" 
+} 
+] 
+},
+{
+ "x": 0.48588,
+"y": 0.37217,
+"no_docs": null,
+"words": [
+ {
+ "prob": 1.5724e-05,
+"word": "sun" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "festival" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "goodhart" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "hay" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "peter" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "book" 
+},
+{
+ "prob": 1.5724e-05,
+"word": "florence" 
+} 
+],
+"docs": [
+ {
+ "url": "http://www.guardian.co.uk/sport/2013/apr/09/masters-2013-bubba-watson",
+"title": "Masters 2013: Bubba Watson happy to discuss the tracks of his tears" 
+},
+{
+ "url": "http://www.detroitnews.com/article/20130412/SPORTS04/304120475/1478/rss",
+"title": "Jason Day leads at Masters; Tiger Woods lingers despite bit of bad luck" 
+},
+{
+ "url": "http://feeds.chicagotribune.com/~r/chicagotribune/news/~3/2_bbAToED3g/story01.htm",
+"title": "Heat fan suddenly famous for 'saluting' Joakim Noah" 
+},
+{
+ "url": "http://www.denverpost.com/breakingnews/ci_23275193/roller-coaster-enthusiasts-flip-rides-denver",
+"title": "Roller-coaster enthusiasts flip for rides in Denver" 
+},
+{
+ "url": "http://www.miamiherald.com/2013/05/23/3412478/diggin-in-try-these-new-plants.html",
+"title": "Diggin' In: Try these new plants to perk up your landscape" 
+},
+{
+ "url": "http://www.guardian.co.uk/science/2013/may/24/plantwatch-bluebells-wild-garlic",
+"title": "Plantwatch: The battle for the ancient British bluebell woods" 
+},
+{
+ "url": "http://www.guardian.co.uk/books/2013/may/27/david-goodhart-snub-hay-festival",
+"title": "David Goodhart's book on immigration earns him snub from Hay festival" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2332197/Author-David-Goodhart-censored-immigration-book-slams-decision-ban-Hay-Literary-Festival.html",
+"title": "Author David Goodhart censored over immigration book slams decision to ban him from Hay Literary Festival" 
+},
+{
+ "url": "http://www.guardian.co.uk/environment/2013/jun/03/west-sussex-ebernoe-common",
+"title": "Country diary: Ebernoe Common, West Sussex: A rare sight in the sunlight" 
+},
+{
+ "url": "http://www.dailymail.co.uk/news/article-2335793/Shoplifter-spotted-shoving-clothes-bag-gets-hair-cut-shopkeeper-spotted-her.html",
+"title": "Shoplifter spotted shoving clothes in her bag gets all her hair cut off by shopkeeper who spotted her" 
+},
+{
+ "url": "http://rss.feedsportal.com/c/266/f/3495/s/2d0e157a/l/0L0Sindependent0O0Clife0Estyle0Cfashion0Cfeatures0Cthe0Eten0Ebest0Ebody0Escrubs0E86513340Bhtml/story01.htm",
+"title": "The Ten Best Body Scrubs" 
+} 
+] 
+} 
+]
